@@ -4,6 +4,7 @@ title:  "Pediaku ID Sedang Dalam Proses Migrasi ke Jekyll"
 author: nanda
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
+description: "Udah gak di blogger lagi, coba beranikan diri pindah ke jekyll"
 featured: true
 hidden: true
 rating: 4.5
