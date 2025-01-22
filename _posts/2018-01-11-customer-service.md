@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
+title:  "Suka Nulis? Terbitkan Artikel Kamu di Pediaku ID Gratis. Gini Caranya!"
+author: nanda
+categories: [ blogger ]
+tags: [menulis, guest post]
 image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "Suka nulis dan pengen tulisanmu terbit di Internet? Yuk, kamu bisa terbitkan artikel di Pediaku ID gratis!."
 featured: true
 hidden: true
 rating: 4.5
