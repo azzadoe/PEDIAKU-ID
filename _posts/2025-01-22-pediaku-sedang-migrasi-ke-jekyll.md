@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pediaku ID Sedang Dalam Proses Migrasi ke Jekyll"
-author: sal
+author: nanda
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
 featured: true
