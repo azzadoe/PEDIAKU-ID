@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Suka Nulis? Terbitkan Artikel Kamu di Pediaku ID Gratis. Gini Caranya!"
+title:  "Suka Nulis? Publikasikan Artikel Kamu di Pediaku ID Gratis. Gini Caranya!"
 author: nanda
 categories: [ blogger ]
 tags: [menulis, guest post]
