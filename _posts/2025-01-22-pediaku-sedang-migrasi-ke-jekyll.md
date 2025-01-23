@@ -7,7 +7,6 @@ image: assets/images/12.jpg
 description: "Udah gak di blogger lagi, coba beranikan diri pindah ke jekyll"
 featured: true
 hidden: true
-rating: 5
 
 ---
 

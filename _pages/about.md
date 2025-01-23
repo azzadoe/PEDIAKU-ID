@@ -24,7 +24,8 @@ Kamu bisa menghubungi saya di nandafransiska.mail@gmail.com
 
 <p>Terimakasih sudah mensupport kami, kami akan selalu menghadirkan konten bermanfaat untuk Anda. 
 
-<a target="_blank" href="#" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="#" class="btn btn-warning">Send a WhatsApp</a>
+
+<a target="_blank" href="#" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Send a WhatsApp</a>
 
 </div>
 </div>
