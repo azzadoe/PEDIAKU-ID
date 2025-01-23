@@ -20,6 +20,7 @@ Café ini dikenal sebagai tempat lahirnya gagasan-gagasan besar selama Revolusi 
 Terletak di Piazza San Marco yang ikonis, Café Florian adalah simbol kemewahan Venesia. Didirikan pada tahun 1720, kafe ini telah menjadi saksi bisu beragam peristiwa penting dalam sejarah Italia. Dengan lantai marmer, lukisan dinding bergaya Barok, dan musik live, Café Florian menawarkan pengalaman elegan yang sulit dilupakan.
 
 > Uniknya, kafe ini pernah menjadi tempat favorit para seniman dan penulis terkenal, seperti Charles Dickens dan Lord Byron. Hingga saat ini, Café Florian masih mempertahankan tradisi pelayanan dan atmosfernya yang eksklusif. Harga makanan dan minuman di sini mungkin lebih tinggi dibandingkan tempat lain, tetapi pengalaman menikmati kopi di tempat yang telah berusia lebih dari tiga abad tentu sepadan.
+
 ![Cafe paling tua di dunia](/assets/images/cafe.png)
 
 
