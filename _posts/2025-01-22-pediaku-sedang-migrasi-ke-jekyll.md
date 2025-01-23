@@ -3,6 +3,7 @@ layout: post
 title:  "Pediaku ID Sedang Dalam Proses Migrasi ke Jekyll"
 author: nanda
 categories: [ Jekyll, tutorial ]
+canonical_url: ''
 image: assets/images/12.jpg
 description: "Udah gak di blogger lagi, coba beranikan diri pindah ke jekyll"
 featured: true
