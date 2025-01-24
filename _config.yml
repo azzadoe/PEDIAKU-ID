@@ -5,7 +5,7 @@ description: "Blog kekinian informasi terkini dan tempatnya belajar blogging ter
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: pediaku.id
-google_analytics: 'UA-46278016-1'
+google_analytics: ''
 disqus: 'pediaku'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -18,9 +18,9 @@ authors:
     display_name: Nanda
     avatar: 'assets/images/nanda.webp'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    email: nandafransiska.mail@gmail.com
+    web: https://pediaku.id
+    twitter: https://twitter.com/
     description: "Halo saya Nanda, author Pediaku ID. Saya senang belajar tentang internet dan blogging, serta berbagi melalui tulisan.."
   john:
     name: John
