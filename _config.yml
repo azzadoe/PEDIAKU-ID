@@ -4,7 +4,7 @@ title: "Pediaku ID"
 description: "Blog kekinian informasi terkini dan tempatnya belajar blogging terlengkap untuk pemula."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: pediaku.id/
+baseurl: https://pediaku.id/
 google_analytics: ''
 disqus: 'pediaku'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
