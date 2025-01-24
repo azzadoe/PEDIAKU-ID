@@ -4,6 +4,8 @@ title:  "Ini Alasan Kenapa Orang Indonesia Malas Membaca Buku"
 author: nanda
 categories: [ pendidikan, tutorial ]
 image: assets/images/baca.webp
+toc : true
+
 ---
 **PEDIAKU ID** Membaca buku adalah jendela dunia. Namun, kenyataannya, kebiasaan membaca buku di Indonesia masih tergolong rendah. Dikutip dari [odstresownik.com](https://odstresownik.com) mengatakan bahwa banyak survei menunjukkan tingkat literasi di Indonesia berada pada peringkat yang memprihatinkan dibandingkan negara lain. Apa sebenarnya alasan di balik kebiasaan malas membaca ini? Artikel ini akan mengulas faktor-faktor yang membuat orang Indonesia malas membaca buku, dampaknya, dan cara mengatasinya.
 

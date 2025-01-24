@@ -4,6 +4,7 @@ title:  "5 Cafe Tertua di Dunia yang Masih Ada Sampai Sekarang"
 author: nanda
 categories: [ sponsored post ]
 image: assets/images/cafe.png
+toc : true
 ---
 
 Kafe bukan hanya tempat menikmati secangkir kopi atau teh, tetapi juga merupakan tempat berkumpulnya orang-orang untuk berdiskusi, membaca, atau bahkan sekadar bersantai. Dalam sejarahnya, beberapa kafe telah menjadi saksi bisu perubahan zaman, menyimpan cerita-cerita berharga dari masa lalu. Beberapa di antaranya bahkan berhasil bertahan hingga saat ini, menawarkan pengalaman unik yang memadukan sejarah, budaya, dan cita rasa. Untuk menikmati pengalaman paling unik kamu bisa [cek sumber](https://www.thestarliteroomelmira.com/) lansung dan menikmati keautentikannya
