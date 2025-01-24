@@ -4,7 +4,7 @@ title:  "Teknologi Pada Perang Dunia 2 yang Mengubah Dunia: Inovasi yang Masih K
 author: nanda
 categories: [ sponsored post, pendidikan]
 tags: [perang, teknologi perang]
-image: assets/images/perang.webp
+image: 
 toc : true
 ---
 
