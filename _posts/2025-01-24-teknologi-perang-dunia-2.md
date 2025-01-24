@@ -9,7 +9,6 @@ toc : true
 ---
 
 
-![teknologi perang dunia 2](/assets/images/perang.webp)
 
 Perang Dunia 2 tidak hanya menjadi konflik terbesar dalam sejarah manusia, tetapi juga mendorong lahirnya berbagai inovasi teknologi yang dampaknya masih kita rasakan hingga hari ini. Konflik global ini memaksa negara-negara untuk mengembangkan teknologi canggih demi memenangkan perang. Dari teknologi militer revolusioner hingga inovasi yang mengubah kehidupan sipil, Perang Dunia 2 meninggalkan warisan yang sangat besar dalam sejarah manusia. Bersama [www.a1haulaboat.com](https://www.a1haulaboat.com
 ) kita akan membahas bagaimana "teknologi Perang Dunia 2" membentuk dunia modern dan terus menjadi dasar berbagai inovasi hingga saat ini.
