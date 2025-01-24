@@ -8,7 +8,6 @@ image: assets/images/11.jpg
 description: "Suka nulis dan pengen tulisanmu terbit di Internet? Yuk, kamu bisa terbitkan artikel di Pediaku ID gratis!."
 featured: true
 hidden: true
-toc : true
 
 ---
 
