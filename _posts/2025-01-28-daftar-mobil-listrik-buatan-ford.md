@@ -57,7 +57,7 @@ Meskipun belum secara resmi diluncurkan, Ford Explorer Electric diharapkan menja
 
 **Fitur Modern:** Sistem infotainment canggih, teknologi bantuan pengemudi, dan sistem baterai yang efisien.
 
-**Harga: Prediksi awal menunjukkan bahwa Explorer Electric akan berada di kisaran $50.000 hingga $70.000.
+**Harga:** Prediksi awal menunjukkan bahwa Explorer Electric akan berada di kisaran $50.000 hingga $70.000.
 
 ## Fitur yang Membuat Mobil Listrik Ford Mewah
 
