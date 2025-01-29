@@ -2,7 +2,7 @@
 layout: post
 title:  "Cara Membuat TTS di Puzzlemaker Online Free"
 author: nanda
-categories: [ sponsored post, game]
+categories: [ sponsored post, game, pendidikan]
 tags: [puzzlemaker, tts]
 image: assets/images/tts.webp
 toc : true
