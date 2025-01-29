@@ -57,7 +57,7 @@ Agar tidak salah dalam memilih toko permen, berikut beberapa tips yang bisa Anda
 
 <li>Pastikan Mereka Menyediakan Tester atau Sampel RasaToko yang menyediakan tester memungkinkan pelanggan untuk mencicipi sebelum membeli dalam jumlah banyak.</li>
 
-<li>Pilih Toko dengan Produk VariatifToko dengan berbagai pilihan permen akan memberi pengalaman berbelanja yang lebih menyenangkan dan memuaskan.</li>
+<li>Pilih Toko dengan Produk VariatifToko dengan berbagai pilihan permen akan memberi pengalaman berbelanja yang lebih menyenangkan dan memuaskan.</li></ol>
 
 ## Penutup
 
