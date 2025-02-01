@@ -24,17 +24,17 @@ Untuk memulai proyek baru, pengguna cukup memilih klip video, lalu masuk ke anta
 
 Spring menyediakan berbagai fitur esensial seperti:
 <ul>
-<li>**Overlay **untuk menambahkan foto atau gambar di atas video.</li>
+<li>Overlayuntuk menambahkan foto atau gambar di atas video.</li>
 
-<li>**Audio** untuk menambahkan musik, efek suara, atau merekam voice-over langsung di aplikasi.</li>
+<li>Audio untuk menambahkan musik, efek suara, atau merekam voice-over langsung di aplikasi.</li>
 
-<li>**Teks dan Auto Captions**, yang memungkinkan pengguna menambahkan teks dengan efek animasi dan menggunakan fitur transkripsi otomatis.</li>
+<li>Teks dan Auto Captions, yang memungkinkan pengguna menambahkan teks dengan efek animasi dan menggunakan fitur transkripsi otomatis.</li>
 
-<li>**Efek AI dan Stiker**, seperti transisi unik, efek getaran kamera, dan berbagai elemen grafis yang dapat diunduh langsung dari Asset Store.</li>
+<li>Efek AI dan Stiker, seperti transisi unik, efek getaran kamera, dan berbagai elemen grafis yang dapat diunduh langsung dari Asset Store.</li>
 
-<li>**Magic Remover**, yang dapat menghapus latar belakang video secara gratis tanpa harus menggunakan aplikasi pihak ketiga.</li>
+<li>Magic Remover, yang dapat menghapus latar belakang video secara gratis tanpa harus menggunakan aplikasi pihak ketiga.</li>
 
-<li>**Filter dan Penyesuaian Warna**, yang memungkinkan pengguna mengatur tampilan visual video dengan mudah.</li>
+<li>Filter dan Penyesuaian Warna, yang memungkinkan pengguna mengatur tampilan visual video dengan mudah.</li>
 
 </ul>
 
