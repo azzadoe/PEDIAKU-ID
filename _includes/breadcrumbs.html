@@ -41,7 +41,7 @@
       "@type": "ListItem",
       "position": {{ forloop.index | plus: page.categories.size | plus: 1 }},
       "name": "{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}",
-      "item": "{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}{{ '/'  }}"
+      "item": "{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{ absolute_url }{{ crumb | append: '/' }}{% endfor %}"
     }
     {% endfor %}
   ]
