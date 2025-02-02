@@ -1,21 +1,16 @@
 <div id="breadcrumbs">
   {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-  <a href="{{ site.baseurl }}/">Home</a>
-  {% capture full_path %}{{ site.baseurl }}{% endcapture %}
-  
+  <a href="/">Home</a>
   {% if page.categories and page.categories.size > 0 %}
     {% for category in page.categories %}
-      {% capture full_path %}{{ full_path }}/{{ category | downcase }}{% endcapture %}
-      / <a href="{{ full_path }}/">{{ category | capitalize }}</a>
+      / <a href="/{{ category | downcase }}/">{{ category | capitalize }}</a>
     {% endfor %}
   {% endif %}
-  
   {% for crumb in crumbs offset: 1 %}
-    {% capture full_path %}{{ full_path }}/{{ crumb }}{% endcapture %}
     {% if forloop.last %}
       / {{ page.title }}
     {% else %}
-      / <a href="{{ full_path }}/">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
+      / <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
     {% endif %}
   {% endfor %}
 </div>
@@ -29,27 +24,24 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "{{ site.baseurl }}/"
+      "item": "{{ '/' | absolute_url }}"
     }
-    {% capture full_path %}{{ site.baseurl }}{% endcapture %}
     {% if page.categories and page.categories.size > 0 %}
       {% for category in page.categories %}
-      {% capture full_path %}{{ full_path }}/{{ category | downcase }}{% endcapture %}
       ,{
         "@type": "ListItem",
         "position": {{ forloop.index | plus: 1 }},
         "name": "{{ category | capitalize }}",
-        "item": "{{ full_path }}/"
+        "item": "{{ '/' | append: category | downcase | append: '/' | absolute_url }}"
       }
       {% endfor %}
     {% endif %}
     {% for crumb in crumbs offset: 1 %}
-    {% capture full_path %}{{ full_path }}/{{ crumb }}{% endcapture %}
     ,{
       "@type": "ListItem",
       "position": {{ forloop.index | plus: page.categories.size | plus: 1 }},
       "name": "{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}",
-      "item": "{{ full_path }}/"
+      "item": "{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}{{ '/' | absolute_url }}"
     }
     {% endfor %}
   ]
