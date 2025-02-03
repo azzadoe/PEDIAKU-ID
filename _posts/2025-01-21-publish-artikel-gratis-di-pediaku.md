@@ -6,9 +6,6 @@ categories: [ blogger ]
 tags: [menulis, guest post]
 image: assets/images/11.jpg
 description: "Suka nulis dan pengen tulisanmu terbit di Internet? Yuk, kamu bisa terbitkan artikel di Pediaku ID gratis!."
-featured: true
-hidden: true
-
 ---
 
 Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
