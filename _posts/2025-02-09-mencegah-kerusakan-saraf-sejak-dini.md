@@ -2,7 +2,7 @@
 layout: post
 title:  "anduan Praktis Mengenali dan Mencegah Kerusakan Saraf pada Anak: Tips untuk Orang Tua"
 author: nanda
-categories: [ kesehatan, parenting ]
+categories: [sponsored post,kesehatan, parenting ]
 tags: [kerusakan saraf]
 image: assets/images/saraf.webp
 description: "Panduan lengkap bagi orang tua mengenali dan mencegah kerusakan saraf pada anak. Temukan tips pola makan sehat, lingkungan aman, dan pemeriksaan rutin untuk mendukung tumbuh kembang optimal"
