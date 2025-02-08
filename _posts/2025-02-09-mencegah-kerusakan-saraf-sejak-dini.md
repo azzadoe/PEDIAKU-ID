@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Panduan Praktis Mengenali dan Mencegah Kerusakan Saraf pada Anak: Tips untuk Orang Tua"
+title:  "anduan Praktis Mengenali dan Mencegah Kerusakan Saraf pada Anak: Tips untuk Orang Tua"
 author: nanda
 categories: [ kesehatan, parenting ]
 tags: [kerusakan saraf]
 image: assets/images/saraf.webp
-description: "Panduan lengkap bagi orang tua mengenali dan mencegah kerusakan saraf pada anak. Temukan tips pola makan sehat, lingkungan aman, dan pemeriksaan rutin untuk mendukung tumbuh kembang optimal."
+description: "Panduan lengkap bagi orang tua mengenali dan mencegah kerusakan saraf pada anak. Temukan tips pola makan sehat, lingkungan aman, dan pemeriksaan rutin untuk mendukung tumbuh kembang optimal"
 ---
+
+
 Anak adalah anugerah terbesar dalam hidup kita. Sebagai orang tua, menjaga kesehatan dan kesejahteraan buah hati adalah prioritas utama. Di tengah kesibukan sehari-hari, seringkali kita lupa bahwa kesehatan saraf anak juga sangat penting untuk mendukung tumbuh kembang yang optimal. Bersama [can-healthybrains](https://www.can-healthybrains.com/) kita akan membahas secara mendalam tentang cara mengenali dan mencegah kerusakan saraf pada anak, serta memberikan tips praktis bagi orang tua untuk mendukung kesehatan sistem saraf anak sejak dini.
 
 Pada masa pertumbuhan, sistem saraf anak rentan terhadap berbagai gangguan, terutama jika pola hidup dan lingkungan tidak mendukung. Banyak orang tua khawatir jika terjadi [Kerusakan Saraf](https://www.can-healthybrains.com/2022/09/8-tanda-kemungkinan-kerusakan-saraf/) yang bisa mempengaruhi kualitas hidup anak, mulai dari gangguan motorik hingga masalah kognitif. Oleh karena itu, penting untuk memahami penyebab, gejala, dan langkah-langkah pencegahan yang dapat dilakukan untuk menjaga kesehatan saraf anak.
