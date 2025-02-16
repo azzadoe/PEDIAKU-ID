@@ -2,7 +2,7 @@
 layout: post
 title:  "5 Toko Permen Terbaik dan Unik yang Wajib Dikunjungi"
 author: nanda
-categories: [ sponsored post, review]
+categories: [ blogger]
 tags: [kuliner]
 image: assets/images/permen.webp
 toc : true

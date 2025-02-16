@@ -2,7 +2,7 @@
 layout: post
 title:  "Rekomendasi Destinasi Wisata Thailand Low Budget: Liburan Seru Tanpa Menguras Kantong"
 author: nanda
-categories: [ sponsored post, wisata ]
+categories: [ wisata ]
 tags: [wisata thailand, traveling, rekomendasi]
 image: assets/images/thailand.webp
 description: "Pengen liburan ke thailand dengan low budget? berikut tips dan rekomendasi destinasi wisata low budget di thailand"

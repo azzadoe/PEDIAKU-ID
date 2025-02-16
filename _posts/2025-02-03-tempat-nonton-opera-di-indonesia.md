@@ -2,7 +2,7 @@
 layout: post
 title:  "3 Tempat Nonton Opera di Indonesia yang Wajib Dikunjungi"
 author: nanda
-categories: [ sponsored post, pendidikan, kesenian ]
+categories: [  pendidikan, kesenian ]
 tags: [opera]
 featured: true
 image: assets/images/kesenianjakarta.webp

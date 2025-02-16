@@ -2,7 +2,7 @@
 layout: post
 title:  "Contoh Website Affiliate Marketing Terbaik untuk Inspirasi"
 author: nanda
-categories: [ sponsored post, bisnis,tutorial]
+categories: [ blogger, tutorial]
 tags: [affiliate marketing, SEO, website inspiration]
 image: assets/images/affiliate.webp
 toc : true

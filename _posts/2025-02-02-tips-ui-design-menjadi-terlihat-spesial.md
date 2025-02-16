@@ -2,7 +2,7 @@
 layout: post
 title:  "Tips Ampuh UI/UX Design agar Menjadi Spesial di Hati Pengguna"
 author: nanda
-categories: [ sponsored post,tutorial,blogger]
+categories: [ tutorial,blogger]
 tags: [design,ui design]
 image: assets/images/ux.webp
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Strategi Social Media Marketing yang Efektif untuk Bisnis"
 author: nanda
-categories: [ sponsored post, bisnis,tutorial,blogger]
+categories: [tutorial,blogger]
 tags: [social media marketing]
 image: assets/images/media.webp
 toc : true

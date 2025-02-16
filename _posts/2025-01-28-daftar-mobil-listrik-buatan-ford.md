@@ -2,7 +2,7 @@
 layout: post
 title:  "Ini Dia Daftar Mobil Listrik Buatan Ford Paling Mewah"
 author: nanda
-categories: [ sponsored post, otomotif]
+categories: [ blogger]
 tags: [ford, mobil listrik]
 image: assets/images/ford.png
 toc : true

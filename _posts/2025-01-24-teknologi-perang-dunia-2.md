@@ -2,7 +2,7 @@
 layout: post
 title:  "Teknologi Pada Perang Dunia 2 yang Mengubah Dunia: Inovasi yang Masih Kita Gunakan Hari Ini"
 author: nanda
-categories: [ sponsored post, pendidikan]
+categories: [pendidikan]
 tags: [perang, teknologi perang]
 image: assets/images/perang.webp
 toc : true

@@ -2,7 +2,7 @@
 layout: post
 title:  "5 Cafe Tertua di Dunia yang Masih Ada Sampai Sekarang"
 author: nanda
-categories: [ sponsored post ]
+categories: [ blogger ]
 image: assets/images/cafe.png
 toc : true
 ---

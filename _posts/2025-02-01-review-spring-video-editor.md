@@ -2,7 +2,7 @@
 layout: post
 title:  "Review Aplikasi Baru Sping Video Editor dari Kinemaster"
 author: nanda
-categories: [ sponsored post,teknologi,review]
+categories: [ teknologi]
 tags: [editor video]
 image: assets/images/spring.webp
 toc : true

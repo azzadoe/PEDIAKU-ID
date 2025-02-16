@@ -2,7 +2,7 @@
 layout: post
 title:  "Menikmati Wisata Rafting Arung Jeram Lubuk Alung Pariaman"
 author: nanda
-categories: [ sponsored post ]
+categories: [ blogger ]
 tags: [wisata, rafting]
 image: assets/images/rafting.webp
 toc : true

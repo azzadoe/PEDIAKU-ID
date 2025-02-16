@@ -2,7 +2,7 @@
 layout: post
 title:  "Jenis Mesin Scrubber Lantai Beserta Fungsinya yang Perlu Diketahui"
 author: nanda
-categories: [ sponsored post, review, teknologi]
+categories: [ blogger, teknologi]
 tags: [scrubber]
 image: assets/images/scrubber.webp
 featured: true
