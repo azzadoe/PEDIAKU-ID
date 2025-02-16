@@ -2,12 +2,11 @@
 layout: post
 title:  "Penyebab Karies Gigi pada Anak dan Cara Mengatasinya"
 author: nanda
-categories: [blogger, teknologi]
+categories: [pendidikan]
 tags: [blogger]
 image: assets/images/karies.webp
 description: "Artikel komprehensif mengenai penyebab karies gigi pada anak dan cara mengatasinya dengan tips perawatan gigi anak, pendapat ahli, dan penelitian terkini"
 ---
-
 
 Karies gigi merupakan salah satu masalah kesehatan gigi yang paling umum dialami oleh anak-anak di seluruh dunia. Menurut data dari World Health Organization (WHO) yang dikutip dari [hammerit](https://www.hammerit.net/), prevalensi karies gigi pada anak berkisar antara 60-90% di banyak negara, termasuk Indonesia. Fakta ini menunjukkan betapa pentingnya pemahaman mengenai penyebab karies gigi pada anak dan upaya pencegahannya. Topik ini sangat relevan bagi orang tua yang ingin memastikan bahwa anak-anak mereka memiliki kesehatan gigi yang optimal dan bebas dari masalah serius di kemudian hari.
 
