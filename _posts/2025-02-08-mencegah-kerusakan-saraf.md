@@ -11,7 +11,7 @@ description: "Panduan lengkap bagi orang tua mengenali dan mencegah kerusakan sa
 
 Anak adalah anugerah terbesar dalam hidup kita. Sebagai orang tua, menjaga kesehatan dan kesejahteraan buah hati adalah prioritas utama. Di tengah kesibukan sehari-hari, seringkali kita lupa bahwa kesehatan saraf anak juga sangat penting untuk mendukung tumbuh kembang yang optimal. Bersama [can-healthybrains](https://www.can-healthybrains.com/) kita akan membahas secara mendalam tentang cara mengenali dan mencegah kerusakan saraf pada anak, serta memberikan tips praktis bagi orang tua untuk mendukung kesehatan sistem saraf anak sejak dini.
 
-Pada masa pertumbuhan, sistem saraf anak rentan terhadap berbagai gangguan, terutama jika pola hidup dan lingkungan tidak mendukung. Banyak orang tua khawatir jika terjadi [Kerusakan Saraf](https://www.can-healthybrains.com/2022/09/8-tanda-kemungkinan-kerusakan-saraf/) yang bisa mempengaruhi kualitas hidup anak, mulai dari gangguan motorik hingga masalah kognitif. Oleh karena itu, penting untuk memahami penyebab, gejala, dan langkah-langkah pencegahan yang dapat dilakukan untuk menjaga kesehatan saraf anak.
+Pada masa pertumbuhan, sistem saraf anak rentan terhadap berbagai gangguan, terutama jika pola hidup dan lingkungan tidak mendukung. Banyak orang tua khawatir jika terjadi [Kerusakan Saraf](https://www.can-healthybrains.com/2022/09/8-tanda-kemungkinan-kerusakan-saraf/) yang bisa mempengaruhi kualitas hidup anak, mulai dari gangguan motorik hingga masalah kognitif. Oleh karena itu, penting untuk memahami penyebab, gejala, dan langkah-langkah pencegahan yang dapat dilakukan untuk [menjaga kesehatan saraf anak](https://pediaku.id/mencegah-kerusakan-saraf/).
 
 ## Pengenalan tentang Kerusakan Saraf pada Anak
 
@@ -117,7 +117,7 @@ Tidur yang cukup dan berkualitas sangat penting untuk pemulihan dan perkembangan
 
 ### 5. Ajak Anak Berpartisipasi dalam Kegiatan Kreatif
 
-Kegiatan seperti menggambar, bermain musik, atau bercerita tidak hanya meningkatkan kreativitas, tetapi juga merangsang koneksi neural di otak anak. Dorong anak untuk mengekspresikan diri melalui berbagai media seni.
+Kegiatan seperti menggambar, bermain musik, atau bercerita tidak hanya meningkatkan kreativitas, tetapi juga merangsang koneksi neural di otak anak. Dorong anak untuk mengekspresikan diri melalui berbagai media seni, dan permainan seperti [membuat TTS](https://pediaku.id/membuat-tts-di-puzzlemaker/), dan [membaca buku](https://pediaku.id/alasan-orang-indonesia-malas-membaca/)
 
 ### 6. Perhatikan Tanda-tanda Stres dan Kecemasan
 

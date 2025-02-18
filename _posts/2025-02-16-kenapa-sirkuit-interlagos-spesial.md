@@ -8,7 +8,7 @@ image: assets/images/sirkuit.webp
 description: "Artikel ini mengulas keistimewaan Sirkuit Interlagos dari sejarah dan desainnya yang unik hingga momen-momen dramatis yang selalu membuat Grand Prix Brazil menjadi salah satu balapan F1 terbaik sepanjang masa."
 ---
 
-Terletak di kota São Paulo, Sirkuit Interlagos telah lama menjadi [Sirkuit Balap F1 Paling Ikonik](https://www.benarabyraceway.com/daftar-sirkuit-balap-paling-ikonik-di-dunia-dan-keunikan-setiap-trek/) di seluruh dunia mencintai trek ini karena karakteristiknya yang istimewa serta kemampuannya menciptakan balapan-balapan yang tak terlupakan. Dalam artikel ini, kita akan menyelami sejarah, keunikan layout, hingga momen-momen dramatis yang menjadikan Grand Prix Brazil di Interlagos begitu spesial.
+Terletak di kota São Paulo, [Sirkuit Interlagos](https://pediaku.id/kenapa-sirkuit-interlagos-spesial/) telah lama menjadi [Sirkuit Balap F1 Paling Ikonik](https://www.benarabyraceway.com/daftar-sirkuit-balap-paling-ikonik-di-dunia-dan-keunikan-setiap-trek/) di seluruh dunia mencintai trek ini karena karakteristiknya yang istimewa serta kemampuannya menciptakan balapan-balapan yang tak terlupakan. Dalam artikel ini, kita akan menyelami sejarah, keunikan layout, hingga momen-momen dramatis yang menjadikan Grand Prix Brazil di Interlagos begitu spesial.
 
 ## Sejarah dan Asal Usul
 

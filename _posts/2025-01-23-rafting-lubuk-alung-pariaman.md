@@ -9,7 +9,7 @@ toc : true
 ---
 
 
-Liburan keluarga di Sumatera Barat (Sumbar) tidak kalah asik, jika Anda sedang menikmati liburan di Sumbar namun bingung mau kemana, coba deh wisata arung jeram atau rafting Lubuk Alung. Wisata rafting padang pariaman ini dijamin mengasikkan dan memberikan sensasi dan pengalaman berwisata di Padang Pariaman. Kalau kamu pengen tau lebih banyak, [pelajari lebih lanjut](https://www.ultimatedescents.com/) tentang rafting di Padang Pariaman dalam artikel ini.
+[Liburan keluarga](https://pediaku.id/categories#wisata) di Sumatera Barat (Sumbar) tidak kalah asik, jika Anda sedang menikmati liburan di Sumbar namun bingung mau kemana, coba deh wisata arung jeram atau [rafting Lubuk Alung](https://pediaku.id/rafting-lubuk-alung-pariaman/). Wisata rafting padang pariaman ini dijamin mengasikkan dan memberikan sensasi dan pengalaman berwisata di Padang Pariaman. Kalau kamu pengen tau lebih banyak, [pelajari lebih lanjut](https://www.ultimatedescents.com/) tentang rafting di Padang Pariaman dalam artikel ini.
 
 Bagi penikmat wisata adrenalin olahraga rafting atau arung jeram mungkin menjadi kegiatan yang cocok dan paling rekomended buat kamu. Di Sumatera Barat, tepatnya di Sungai Batang Anai, yang terletak di Lubuk Alung, kabupaten Padang Pariaman juga ada wisata rafting yang direkomendasikan dan cukup populer dikalangan wisatawan.
 
@@ -28,7 +28,7 @@ Rafting di Batang Anai terbilang sangat aman untuk pemula sekalipun dan cocok ba
 Bagi Anda yang tertarik untuk berkunjung dan menikmati wisata rafting di sini, jangan kuatir harga untuk menikmatinya cukup terjangkau yaitu sekitar<span class="spoiler"> Rp. 160.000,- sampai Rp. 180.000,- per orang. </span>Anda bisa menggunakan L.A Rafting, yang mana titik kumpulnya di Posko L.A Rafting Nagari Pasie Laweh, Kec. Lubuk Alung, Kab. Padang Pariaman, Sumatera Barat
 
 ## Penutup
-Destinasi wisata arung jeram di Pariaman tepatnya di Sungai Batang Anai ini salah satu destinasi wisata yang rekomended buat Anda yang menyukai petualangan, atau ingin mencoba pengalaman baru.
+Destinasi wisata [arung jeram di Pariaman](https://pediaku.id/rafting-lubuk-alung-pariaman/) tepatnya di Sungai Batang Anai ini salah satu destinasi wisata yang rekomended buat Anda yang menyukai petualangan, atau ingin mencoba pengalaman baru.
 
-Bagi pemula, Anda tidak perlu kawatir karena tentu saja ini sudah dilengkapi dengan keamanan dan pemandu sehingga dapat menghilangkan kecemasan Anda. Selain itu, rafting juga merupakan wisata yang cocok untuk keluarga atau bersama teman.
+Bagi pemula, Anda tidak perlu kawatir karena tentu saja ini sudah dilengkapi dengan keamanan dan pemandu sehingga dapat menghilangkan kecemasan Anda. Selain itu, rafting juga merupakan [wisata](https://pediaku.id/liburan-thailand-low-budget/) yang cocok untuk keluarga atau bersama teman. Selain rekomendasi untuk rafting, Anda dan keluarga juga bisa menikmati liburan dengan camping, dan [mengatur rencana camping](https://pediaku.id/mengatur-rencana-camping-akhir-pekan/)
 

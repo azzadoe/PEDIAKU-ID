@@ -12,7 +12,7 @@ Thailand adalah salah satu destinasi favorit wisatawan dunia, terutama bagi mere
 
 Apakah mungkin menjelajahi Thailand dengan budget terbatas? Jawabannya adalah iya! Dengan perencanaan yang tepat, Anda bisa menikmati berbagai tempat menarik tanpa harus menghabiskan banyak uang. Selain itu, Anda juga bisa mencicipi berbagai kuliner khas dengan harga bersahabat. Untuk pilihan tempat makan yang ramah kantong, cek [Rekomendasi Restoran Thailand](https://www.thairubyfood.com/rekomendasi-restoran-thailand-di-indonesia/) yang menyajikan hidangan autentik dengan harga murah.
 
-Artikel ini akan memberikan rekomendasi destinasi wisata Thailand low budget, lengkap dengan tips hemat dan informasi penting lainnya.
+Artikel ini akan memberikan r[ekomendasi destinasi wisata Thailand low budget](https://pediaku.id/liburan-thailand-low-budget/), lengkap dengan tips hemat dan informasi penting lainnya.
 
 ## Destinasi Wisata Thailand Low Budget
 
@@ -80,7 +80,7 @@ Selain memilih destinasi yang tepat, berikut beberapa strategi untuk menghemat l
 
 **Cari Promo Tiket Masuk:** Banyak tempat wisata menawarkan diskon jika membeli tiket online lebih awal.
 
-**Hindari Musim Liburan:** Harga akomodasi dan tiket wisata lebih murah di luar peak season (April-Juni, September-November).
+**Hindari Musim Liburan:** Harga akomodasi dan tiket [wisata](https://pediaku.id/rafting-lubuk-alung-pariaman/) lebih murah di luar peak season (April-Juni, September-November).
 
 ##Kesimpulan
 

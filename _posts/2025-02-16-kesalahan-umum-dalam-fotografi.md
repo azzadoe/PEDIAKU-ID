@@ -16,7 +16,7 @@ Pada kesempatan kali ini, mari kita bahas bagaimana meminimalkan kesalahan dan b
 
 Menghasilkan foto berkualitas bukan hanya soal memiliki kamera mahal atau peralatan canggih. Banyak fotografer amatir dan bahkan profesional pun terkadang melakukan kesalahan yang dapat berdampak signifikan pada hasil akhir foto. Kesalahan-kesalahan ini bisa membuat gambar menjadi terlalu gelap, buram, atau bahkan kehilangan unsur estetika yang seharusnya membuat foto tersebut menarik. Dengan menghindari kesalahan umum, Anda tidak hanya meningkatkan kualitas foto, tetapi juga memaksimalkan potensi kreativitas dan keunikan gaya pribadi Anda.
 
-Selain itu, dalam konteks dunia profesional, menghindari kesalahan dalam fotografi sangat penting untuk membangun reputasi sebagai fotografer yang andal. Foto berkualitas tinggi akan meningkatkan kepercayaan klien dan membuka peluang kerja yang lebih baik.
+Selain itu, dalam konteks dunia profesional, menghindari [kesalahan dalam fotografi](https://pediaku.id/kesalahan-umum-dalam-fotografi/) sangat penting untuk membangun reputasi sebagai fotografer yang andal. Foto berkualitas tinggi akan meningkatkan kepercayaan klien dan membuka peluang kerja yang lebih baik.
 
 ## 10 Kesalahan Umum dalam Fotografi yang Harus Dihindari
 

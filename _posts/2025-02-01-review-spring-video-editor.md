@@ -8,7 +8,7 @@ image: assets/images/spring.webp
 toc : true
 ---
 
-Pembuat Kinemaster baru saja merilis aplikasi terbaru mereka yang bernama Spring. Aplikasi ini dirancang untuk memudahkan para kreator kasual dalam mengedit video, terutama untuk konten vertikal yang semakin populer di media sosial. Dalam artikel ini, kita akan mengulas aplikasi Spring, membandingkannya dengan editor lain seperti Kinemaster, serta menjawab pertanyaan mengapa sebuah aplikasi yang sudah mapan seperti Kinemaster merilis aplikasi editing video baru dan mampukah aplikasi ini menjadi [Rekomendasi Aplikasi Edit Video](https://www.chrisallenonline.com/2025/01/05/rekomendasi-aplikasi-untuk-edit-video-terbaik/) yang ramah pengguna.
+Pembuat Kinemaster baru saja merilis aplikasi terbaru mereka yang bernama [Spring video editor](https://pediaku.id/review-spring-video-editor/). Aplikasi ini dirancang untuk memudahkan para kreator kasual dalam mengedit video, terutama untuk konten vertikal yang semakin populer di media sosial. Dalam artikel ini, kita akan mengulas aplikasi Spring, membandingkannya dengan editor lain seperti Kinemaster, serta menjawab pertanyaan mengapa sebuah aplikasi yang sudah mapan seperti Kinemaster merilis aplikasi editing video baru dan mampukah aplikasi ini menjadi [Rekomendasi Aplikasi Edit Video](https://www.chrisallenonline.com/2025/01/05/rekomendasi-aplikasi-untuk-edit-video-terbaik/) yang ramah pengguna.
 
 ## Mengapa Membuat Aplikasi Baru?
 

@@ -8,7 +8,7 @@ toc : true
 ---
 
 Kafe bukan hanya tempat menikmati secangkir kopi atau teh, tetapi juga merupakan tempat berkumpulnya orang-orang untuk berdiskusi, membaca, atau bahkan sekadar bersantai. Dalam sejarahnya, beberapa kafe telah menjadi saksi bisu perubahan zaman, menyimpan cerita-cerita berharga dari masa lalu. Beberapa di antaranya bahkan berhasil bertahan hingga saat ini, menawarkan pengalaman unik yang memadukan sejarah, budaya, dan cita rasa. Untuk menikmati pengalaman paling unik kamu bisa [cek sumber](https://www.thestarliteroomelmira.com/) lansung dan menikmati keautentikannya
-Berikut adalah lima kafe tertua di dunia yang masih ada sampai sekarang, masing-masing dengan cerita dan karakteristik yang membuatnya istimewa.
+Berikut adalah lima [kafe tertua](https://pediaku.id/5-cafe-tertua-di-dunia/) di dunia yang masih ada sampai sekarang, masing-masing dengan cerita dan karakteristik yang membuatnya istimewa.
 
 ## 1. Café Procope – Paris, Prancis (1686)
 Café Procope, yang dibuka pada tahun 1686, adalah salah satu kafe tertua di dunia. Terletak di jantung kota Paris, kafe ini menjadi tempat berkumpulnya tokoh-tokoh besar seperti Voltaire, Rousseau, dan bahkan Napoleon Bonaparte. Dengan interior klasik bergaya Prancis, Café Procope menawarkan suasana yang membawa pengunjungnya ke masa lalu.

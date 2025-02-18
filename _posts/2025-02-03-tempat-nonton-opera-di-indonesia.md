@@ -9,7 +9,7 @@ image: assets/images/kesenianjakarta.webp
 description: "Pengen nonton opera tapi bingung di mana? Yuk liat rekomendasi tempat nonton opera dan pertunjukan di Indonesia yang wajib kamu kunjungi!."
 ---
 
-Buat kamu yang suka seni pertunjukan, pasti pernah bertanya-tanya: Di mana sih tempat terbaik buat nonton opera di Indonesia? Nah, di artikel ini, aku bakal berbagi pengalaman nonton opera di tiga tempat yang menurutku wajib kamu kunjungi! Selain itu, [mnconcertopera](https://www.mnconcertopera.org/) ngasih tips buat kamu yang baru pertama kali nonton opera biar pengalaman kamu makin seru. Yuk, langsung aja!
+Buat kamu yang suka seni pertunjukan, pasti pernah bertanya-tanya: Di mana sih [tempat terbaik buat nonton opera di Indonesia](https://pediaku.id/tempat-nonton-opera-di-indonesia/)? Nah, di artikel ini, aku bakal berbagi pengalaman nonton opera di tiga tempat yang menurutku wajib kamu kunjungi! Selain itu, [mnconcertopera](https://www.mnconcertopera.org/) ngasih tips buat kamu yang baru pertama kali nonton opera biar pengalaman kamu makin seru. Yuk, langsung aja!
 
 ## 1. Gedung Kesenian Jakarta (GKJ)
 
