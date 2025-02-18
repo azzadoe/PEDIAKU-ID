@@ -51,5 +51,5 @@ Tetap sehat dan jaga jantungmu dengan pemeriksaan rutin!
 
 **Referensi:**
 
-- Cheng, L.-H., Bosch, P. B. J., Hofman, R. F. H., Brakenhoff, T. B., Bruggemans, E. F., van der Geest, R. J., & Holman, E. R. (2021). *Revealing Unforeseen Diagnostic Image Features with Deep Learning by Detecting Cardiovascular Diseases from Apical Four-Chamber Ultrasounds*. [arXiv:2110.12915](https://arxiv.org/abs/2110.12915)
+- Cheng, L.-H., Bosch, P. B. J., Hofman, R. F. H., Brakenhoff, T. B., Bruggemans, E. F., van der Geest, R. J., & Holman, E. R. (2021). *Revealing Unforeseen Diagnostic Image Features with Deep Learning by Detecting Cardiovascular Diseases from Apical Four-Chamber Ultrasounds*. arXiv:2110.12915
 - Pendapat ahli kardiologi dan sumber jurnal lain sebagai acuan tambahan.
