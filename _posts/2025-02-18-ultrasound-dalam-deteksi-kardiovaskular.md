@@ -3,7 +3,7 @@ layout: post
 title:  "Peran Ultrasound dalam Deteksi Dini Penyakit Kardiovaskular"
 author: nanda
 categories: [pendidikan]
-tags: [desain]
+tags: [pendidikan]
 image: assets/images/kardiovaskular.webp
 description: "Bagaimana peran ultrasound dalam deteksi dini penyakit kardiovaskular, dan seberapa efektif?"
 ---
