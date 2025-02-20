@@ -56,3 +56,34 @@ Setelah kamu menguasai teknik dasar ini, kamu bisa lanjut ke [tutorial infinite 
 Semoga panduan ini membantu dan menginspirasi kamu untuk terus berkarya. Kalau ada pertanyaan atau ingin berbagi pengalaman, langsung aja tulis di kolom komentar di bawah. Selamat mencoba dan sampai jumpa di tutorial berikutnya!
 
 Happy designing, teman!
+
+ <div class="container mt-5">
+    <div class="card shadow">
+      <div class="card-body">
+        <h5 class="card-title">Download File</h5>
+        <p class="card-text">Untuk mendownload file silahkan klik tombol download di bawah ini.</p>
+        <div class="d-grid mb-3">
+          <a href="#" class="btn btn-success btn-lg">Download</a>
+        </div>
+        <table class="table table-striped table-hover">
+          <thead>
+            <tr>
+              <th>Nama File</th>
+              <th>Type File</th>
+              <th>Ukuran File</th>
+              <th>Compatible</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>contoh_file.zip</td>
+              <td>ZIP</td>
+              <td>5 MB</td>
+              <td>Windows, Mac, Linux</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  
