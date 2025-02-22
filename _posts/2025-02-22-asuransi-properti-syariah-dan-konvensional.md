@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "*Asuransi Properti Syariah*: Apa Bedanya dengan Asuransi Konvensional?"
+title:  "Asuransi Properti Syariah: Apa Bedanya dengan Asuransi Konvensional?"
 author: nanda
 categories: [pendidikan]
 tags: [pendidikan]
