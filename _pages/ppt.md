@@ -1,5 +1,5 @@
 ---
 layout: categories
 title: PPT Template
-permalink: /categories/ppt
+permalink: /category/ppt
 ---
