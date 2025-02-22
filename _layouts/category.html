@@ -4,12 +4,15 @@ layout: default
 permalink: "/category.html"
 ---
 
-{<h1>Posts in "{{ page.category }}"</h1>
-
 <ul>
-  {% for post in site.categories[page.category] %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%d %B %Y" }}
-    </li>
-  {% endfor %}
-</ul>
+    {% assign cat_posts = site.categories[page.category] %}
+    {% if cat_posts %}
+      {% for post in cat_posts %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%d %B %Y" }}
+        </li>
+      {% endfor %}
+    {% else %}
+      <p>Tidak ada postingan pada kategori ini.</p>
+    {% endif %}
+  </ul>
