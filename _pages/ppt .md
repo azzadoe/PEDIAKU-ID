@@ -1,8 +1,9 @@
 ---
-layout: categories
+layout: default
 title: PPT Template
 permalink: /categories/ppt
 ---
+<div class="row listrecent">
 <ul>
   {% assign tutorial_posts = site.posts | where_exp:"post", "post.categories contains 'tutorial'" %}
   {% if tutorial_posts.size > 0 %}
@@ -15,3 +16,4 @@ permalink: /categories/ppt
     <li>Tidak ada postingan dalam kategori ini.</li>
   {% endif %}
 </ul>
+</div>
