@@ -21,10 +21,7 @@ permalink: /categories/ppt
             {% endif %}
             <div class="card-body d-flex flex-column">
               <h5 class="card-title"><a href="{{ post.url }}"> {{ post.title }} </a> </h5>
-              <p class="card-text text-muted">
-                <small>{{ post.date | date: "%d %B %Y" }}</small>
-              </p>
-            </div>
+                          </div>
           </div>
         </div>
       {% endfor %}
