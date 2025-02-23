@@ -40,7 +40,8 @@ permalink: /categories/ppt
   }
 </style>
 
-<div class="container h-100">
+<section class="p-0 bg-grad position-relative landing-banner all-text-white">
+	<div class="container h-100">
 		<!-- banner image -->
 		<div class="col-8 col-ms-8 col-lg-7 banner-mockup p-0">
 			<img src="assets/images/banner/mockup.png" alt="">
@@ -56,7 +57,7 @@ permalink: /categories/ppt
 			</div>
 		</div>
 	</div>
-    
+</section>
 
 <div class="container my-5">
   <h1 class="mb-4">Postingan dalam kategori "Tutorial"</h1>
