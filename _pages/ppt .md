@@ -32,7 +32,7 @@ permalink: /categories/ppt
 <div class="container my-5">
   <h1 class="mb-4 text-center">Artikel Template PPT</h1>
   <div class="row">
-    {% assign template_posts = site.posts | where_exp:"post", "post.categories contains 'template-ppt'" %}
+    {% assign template_posts = site.posts | where_exp:"post", "post.categories contains 'ppt'" %}
     {% if template_posts.size > 0 %}
       {% for post in template_posts %}
         <div class="col-md-4 mb-4">
