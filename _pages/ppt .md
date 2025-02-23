@@ -5,7 +5,6 @@ permalink: /categories/ppt
 ---
 <!-- Sertakan Bootstrap CSS (pastikan tidak duplikat jika sudah ada di layout utama) -->
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-
 <div class="container my-5">
   <h1 class="mb-4">Postingan dalam kategori "Tutorial"</h1>
   <div class="row">
@@ -15,7 +14,7 @@ permalink: /categories/ppt
         <div class="col-md-4 mb-4">
           <div class="card h-100 shadow-sm">
             {% if post.image %}
-              <img src="{{ post.image }}" class="card-img-top" alt="{{ post.title }}">
+              <img src="/{{ post.image }}" class="card-img-top" alt="{{ post.title }}">
             {% else %}
               <!-- Ganti dengan path ke default thumbnail jika tidak ada -->
               <img class="card-img-top featured-image img-fluid" src="/assets/images/default-thumbnail.jpg" alt="Default Thumbnail">
