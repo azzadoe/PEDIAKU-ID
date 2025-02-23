@@ -15,13 +15,11 @@ permalink: /categories/ppt
         <div class="col-md-4 mb-4">
           <div class="card h-100 shadow-sm">
             {% if page.image %}
-            {% if site.lazyimages == "enabled" %}
-            <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+              <img src="{{ page.image }}" class="card-img-top" alt="{{ post.title }}">
             {% else %}
-            <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+              <!-- Ganti dengan path ke default thumbnail jika tidak ada -->
+              <img class="card-img-top featured-image img-fluid" src="{% if page.image contains "  alt="Default Thumbnail">
             {% endif %}
-            {% endif %}
-                        <!-- End Featured Image -->
             <div class="card-body d-flex flex-column">
               <h5 class="card-title">{{ post.title }}</h5>
               <p class="card-text text-muted">
