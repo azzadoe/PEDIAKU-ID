@@ -14,8 +14,8 @@ permalink: /categories/ppt
       {% for post in tutorial_posts %}
         <div class="col-md-4 mb-4">
           <div class="card h-100 shadow-sm">
-            {% if page.image %}
-              <img src="{{ page.image }}" class="card-img-top" alt="{{ post.title }}">
+            {% if featured-image %}
+              <img src="{{ featured-image }}" class="card-img-top" alt="{{ post.title }}">
             {% else %}
               <!-- Ganti dengan path ke default thumbnail jika tidak ada -->
               <img src="/assets/images/default-thumbnail.jpg" class="card-img-top" alt="Default Thumbnail">
