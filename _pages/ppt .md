@@ -4,7 +4,7 @@ title: PPT Template
 permalink: /categories/ppt
 ---
 <!-- Sertakan Bootstrap CSS (pastikan tidak duplikat jika sudah ada di layout utama) -->
-  <link rel="stylesheet" type="text/css" href="https://wizixo.webestica.com/assets/css/style.css" />
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
 <style>
   /* Styling modern untuk card ala Envato Market */
@@ -40,24 +40,44 @@ permalink: /categories/ppt
   }
 </style>
 
-<section class="p-0 bg-grad position-relative landing-banner all-text-white">
-	<div class="container h-100">
-		<!-- banner image -->
-		<div class="col-8 col-ms-8 col-lg-7 banner-mockup p-0">
-			<img src="assets/images/banner/mockup.png" alt="">
-		</div>
-		<!-- banner content -->
-		<div class="row d-flex align-items-center banner-content h-100">
-			<div class="col-12 col-sm-8 col-lg-6 mt-2 mt-md-0 pe-0 pe-sm-5 pe-lg-5">
-				<p class="transparent-bg-1 d-inline-block rounded py-1 px-3 mb-3">- Super Easy way to build perfect website</p>
-				<!-- <p class="bg-danger d-inline-block rounded py-1 px-3 mb-3">🏠 Stay at Home. Save 30%. Use the code <b>"StayHome30"</b> until Apr, 12</p> -->
-				<h1 class="display-5 fw-normal">Meet Wizixo - Creative Agency Multi-Purpose Theme</h1> 
-				<h6 class="mb-4 fw-light">Ultimate all-around theme specially designed for the agency, marketing firms, portfolio, creative, startup, landing page and corporate.</h6>
-				<a class="btn btn-dark me-4 mb-0" href="https://themes.getbootstrap.com/product/wizixo-multipurpose-corporate-theme/" target="_blank">Purchase Now!</a>
-			</div>
-		</div>
-	</div>
+<!--start online yoga-->
+<section class="pt-lg-8 pt-6 py-xxl-10">
+    <div class="container">
+        <!--row-->
+        <div class="row d-flex align-items-center">
+            <div class="col-xxl-5 col-lg-6 col-12">
+                <!--content-->
+                <div>
+                    <h5 class="text-muted mb-4">Online Yoga Trainer</h5>
+                    <h1 class="mb-3 fw-bold">
+                        Hello, I m
+                        <span class="text-bottom-line">Sarah Blais,</span>
+                        Certified Yoga Instructor
+                    </h1>
+                    <p class="mb-4">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. In magna augue, viverra vel mollis non, pretium sed erat. Maecenas posuere id ante vitae molestie.
+                    </p>
+                    <!--button-->
+                    <div class="d-grid d-lg-block">
+                        <a href="#" class="btn btn-secondary">Book online yoga now</a>
+                        <a href="#" class="btn btn-outline-secondary ms-lg-1 mt-2 mt-lg-0">View my courses</a>
+                    </div>
+                </div>
+            </div>
+            <!--col-->
+            <div class="col-xxl-6 offset-xxl-1 col-lg-6 col-12">
+                <!--image-->
+
+                <div class="text-center d-none d-lg-block">
+                    <img src="../assets/images/yoga/yoga-hero-img.png" alt="yoga-coach" class="img-fluid" />
+                </div>
+                <!--image-->
+            </div>
+        </div>
+    </div>
 </section>
+<!--end of online yoga-->
+
 
 <div class="container my-5">
   <h1 class="mb-4">Postingan dalam kategori "Tutorial"</h1>
