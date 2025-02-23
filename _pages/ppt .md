@@ -20,11 +20,10 @@ permalink: /categories/ppt
               <img class="card-img-top featured-image img-fluid" src="/assets/images/default-thumbnail.jpg" alt="Default Thumbnail">
             {% endif %}
             <div class="card-body d-flex flex-column">
-              <h5 class="card-title">{{ post.title }}</h5>
+              <h5 class="card-title"><a href="{{ post.url }}"> {{ post.title }} </a> </h5>
               <p class="card-text text-muted">
                 <small>{{ post.date | date: "%d %B %Y" }}</small>
               </p>
-              <a href="{{ post.url }}" class="btn btn-primary mt-auto">Baca Selengkapnya</a>
             </div>
           </div>
         </div>
