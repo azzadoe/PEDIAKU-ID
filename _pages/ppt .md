@@ -14,11 +14,11 @@ permalink: /categories/ppt
       {% for post in tutorial_posts %}
         <div class="col-md-4 mb-4">
           <div class="card h-100 shadow-sm">
-            {% if page.image %}
-              <img src="{ page.image }" class="card-img-top" alt="{{ post.title }}">
+            {% if post.image %}
+              <img src="{{ post.image }}" class="card-img-top" alt="{{ post.title }}">
             {% else %}
               <!-- Ganti dengan path ke default thumbnail jika tidak ada -->
-              <img class="card-img-top featured-image img-fluid" src="{ page.image"  alt="Default Thumbnail">
+              <img class="card-img-top featured-image img-fluid" src="/assets/images/default-thumbnail.jpg" alt="Default Thumbnail">
             {% endif %}
             <div class="card-body d-flex flex-column">
               <h5 class="card-title">{{ post.title }}</h5>
