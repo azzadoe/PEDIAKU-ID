@@ -18,7 +18,7 @@ permalink: /categories/ppt
               <img src="{{ page.image }}" class="card-img-top" alt="{{ post.title }}">
             {% else %}
               <!-- Ganti dengan path ke default thumbnail jika tidak ada -->
-              <img src="/assets/images/default-thumbnail.jpg" class="card-img-top" alt="Default Thumbnail">
+              <img src="/assets/images/scandy.png" class="card-img-top" alt="Default Thumbnail">
             {% endif %}
             <div class="card-body d-flex flex-column">
               <h5 class="card-title">{{ post.title }}</h5>
