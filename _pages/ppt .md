@@ -4,7 +4,7 @@ title: PPT Template
 permalink: /categories/ppt
 ---
 <!-- Sertakan Bootstrap CSS (pastikan tidak duplikat jika sudah ada di layout utama) -->
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="https://wizixo.webestica.com/assets/css/style.css" />
 
 <style>
   /* Styling modern untuk card ala Envato Market */
