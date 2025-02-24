@@ -48,19 +48,19 @@ permalink: /ppt
             <div class="col-xxl-5 col-lg-6 col-12">
                 <!--content-->
                 <div>
-                    <h5 class="text-muted mb-4">Online Yoga Trainer</h5>
-                    <h1 class="mb-3 fw-bold">
-                        Hello, I m
-                        <span class="text-bottom-line">Sarah Blais,</span>
-                        Certified Yoga Instructor
-                    </h1>
+                    <h5 class="text-muted mb-4">Pediaku id ppt free download</h5>
+                    <h2 class="mb-3 fw-bold">
+                        Selamat Datang di
+                        <span class="text-bottom-line">Pediaku ID PPT,</span>
+                        Download Template PPT Gratis Sepuasnya
+                    </h2>
                     <p class="mb-4">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. In magna augue, viverra vel mollis non, pretium sed erat. Maecenas posuere id ante vitae molestie.
+                        Pediaku ID PPT free download adalah situs tempat download template ppt gratis paling top, dan gratis 100%
                     </p>
                     <!--button-->
                     <div class="d-grid d-lg-block">
-                        <a href="#" class="btn btn-secondary">Book online yoga now</a>
-                        <a href="#" class="btn btn-outline-secondary ms-lg-1 mt-2 mt-lg-0">View my courses</a>
+                        <a href="#" class="btn btn-secondary">Lihat Koleksi PPT</a>
+                        <a href="#" class="btn btn-outline-secondary ms-lg-1 mt-2 mt-lg-0">Tutorial PPT</a>
                     </div>
                 </div>
             </div>
@@ -80,7 +80,6 @@ permalink: /ppt
 
 
 <div class="container my-5">
-  <h1 class="mb-4">Postingan dalam kategori "Tutorial"</h1>
   <div class="row">
     {% assign colors = "#FDEBD0,#D6EAF8,#E8DAEF,#D5F5E3,#FCF3CF" | split: "," %}
     {% assign tutorial_posts = site.posts | where_exp:"post", "post.categories contains 'tutorial'" %}
