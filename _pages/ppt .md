@@ -69,7 +69,7 @@ permalink: /ppt
                 <!--image-->
 
                 <div class="text-center d-none d-lg-block">
-                    <img src="../assets/images/yoga/yoga-hero-img.png" alt="yoga-coach" class="img-fluid" />
+                    <img src="/assets/images/powerpoint.png" alt="PPT template gratis" class="img-fluid" />
                 </div>
                 <!--image-->
             </div>
