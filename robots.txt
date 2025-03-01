@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pediaku.id/sitemap.xml
+Sitemap: https://pediaku.id/feed.xml
