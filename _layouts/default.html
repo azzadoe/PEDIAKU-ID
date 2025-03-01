@@ -4,20 +4,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<!-- Optimization: Preconnect ke domain eksternal untuk mengurangi waktu koneksi -->
-<link rel="preconnect" href="https://stackpath.bootstrapcdn.com" crossorigin>
-<link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
-<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://use.fontawesome.com" crossorigin>
-
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
 <title>{{ page.title }} | {{site.name}}</title>
 
 {% seo %}
 
-<!-- CSS Preload & fallback via noscript -->
 <link rel="preload" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 <noscript>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -29,8 +21,6 @@
 <link rel="preload" href="{{ site.baseurl }}/assets/css/main.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet"></noscript>
 
-<!-- Optimization: Preload untuk jQuery (tambahan baris, tanpa mengubah script utama) -->
-<link rel="preload" as="script" href="{{ site.baseurl }}/assets/js/jquery.min.js">
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js" rel="preload"></script>
 
@@ -142,12 +132,37 @@ ga('send', 'pageview');
 
 <div class="container">
 
+<!-- Site Title
+
+<div class="mainheading">
+    <h1 class="sitetitle">{{ site.name }}</h1>
+    <p class="lead">
+        {{ site.description }}
+    </p>
+</div> -->
+
 <!-- Content
 ================================================== -->
 <div class="main-content">
     {{ content }}
 </div>
+<!-- Bottom Alert Bar
+{% if site.mailchimp-list %}
 
+
+<div class="alertbar">
+	<div class="container text-center">
+		<span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
+        <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
+            <div class="mc-field-group">
+            <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
+            <input type="submit" value="Subscribe" name="subscribe" class="heart">
+            </div>
+        </form>
+	</div>
+</div>
+{% endif %}================================================== -->
+    
 </div>
 
 <!-- Categories Jumbotron
@@ -185,12 +200,18 @@ ga('send', 'pageview');
                       <img src="/assets/images/seedbacklink.webp" class="bi pe-none me-2" width="16" height="16"></img>
                       Order via Seedbacklink
                     </a>
+                  
+ 
+                  
             </div>
             <div class="col-md-6 col-sm-6 text-center text-lg-right">    
                 Made With &#10084;	from Wakanda by <a href="https://pediaku.id">Pediaku ID</a>
             </div>
         </div>
     </div>
+
+ 
+    
 </footer>
 <!-- End Footer
 ================================================== -->
@@ -213,26 +234,8 @@ ga('send', 'pageview');
 <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script> 
 
 {% if page.layout == 'post' %}
-<script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js" async></script>
+<script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
-
-<!-- Optimization: Muat deferred styles (font & Font Awesome) setelah render awal -->
-<script>
-  var loadDeferredStyles = function() {
-    var addStylesNode = document.getElementById("deferred-styles");
-    var replacement = document.createElement("div");
-    replacement.innerHTML = addStylesNode.textContent;
-    document.head.appendChild(replacement);
-    addStylesNode.parentElement.removeChild(addStylesNode);
-  };
-  var raf = requestAnimationFrame || mozRequestAnimationFrame ||
-    webkitRequestAnimationFrame || msRequestAnimationFrame;
-  if (raf) {
-    raf(function() { window.setTimeout(loadDeferredStyles, 0); });
-  } else {
-    window.addEventListener('load', loadDeferredStyles);
-  }
-</script>
 
 </body>
 </html>
