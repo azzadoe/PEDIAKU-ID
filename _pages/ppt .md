@@ -102,7 +102,7 @@ permalink: /ppt
       {% for post in tutorial_posts %}
         {% assign bg_color = colors[forloop.index0 | modulo: colors.size] %}
         <div class="col-md-4 mb-4">
-          <div class="card card-modern h-100 shadow-sm">
+          <div class="card card-modern h-100 shadow">
             {% if post.image %}
               <img src="/{{ post.image }}" class="card-img-top" alt="{{ post.title }}">
             {% else %}
