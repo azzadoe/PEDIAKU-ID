@@ -67,7 +67,6 @@ permalink: /ppt
             <!--col-->
             <div class="col-xxl-6 offset-xxl-1 col-lg-6 col-12">
                 <!--image-->
-
                 <div class="text-center d-none d-lg-block">
                     <img src="/assets/images/powerpoint.png" alt="PPT template gratis" class="img-fluid" />
                 </div>
@@ -77,6 +76,22 @@ permalink: /ppt
     </div>
 </section>
 <!--end of online yoga-->
+
+<section class="py-lg-8 py-xxl-16 py-6 bg-light">
+				<div class="container">
+					<!-- row -->
+					<div class="row">
+						<div class="col-xxl-8 offset-xxl-2 col-lg-6 offset-lg-3 col-md-12 col-12">
+							<div class="text-center mb-lg-9 mb-5">
+								<!-- content -->
+								<h2 class="fw-bold mb-3">
+									<span class="text-bottom-line">Upcoming Courses</span>
+								</h2>
+								<p class="mb-0">Sign up for upcoming weekly classes and events orem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+								<!-- content -->
+							</div>
+						</div>
+					</div>
 
 
 <div class="container my-5">
@@ -108,3 +123,6 @@ permalink: /ppt
     {% endif %}
   </div>
 </div>
+
+</div>
+</section>
