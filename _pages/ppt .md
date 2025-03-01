@@ -85,9 +85,9 @@ permalink: /ppt
 							<div class="text-center mb-lg-9 mb-5">
 								<!-- content -->
 								<h2 class="fw-bold mb-3">
-									<span class="text-bottom-line">Upcoming Courses</span>
+									<span class="text-bottom-line">Pediaku ID PPT Terbaik</span>
 								</h2>
-								<p class="mb-0">Sign up for upcoming weekly classes and events orem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+								<p class="mb-0">Kamu bisa download ratusan koleksi template PPT di Pediaku ID gratis dan tanpa harus mendaftar</p>
 								<!-- content -->
 							</div>
 						</div>
