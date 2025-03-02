@@ -60,7 +60,7 @@ ga('send', 'pageview');
 	<nav class="navbar navbar-expand-xl">
 		<div class="container-fluid px-3 px-xl-5">
 			<!-- Logo START -->
-			<a class="navbar-brand" href="#">
+			<a class="navbar-brand" href="{{ site.baseurl }}/">
 				<img class="light-mode-item navbar-brand-item" src="{{ site.baseurl }}/{{ site.logo }}" alt="logo">
 				<img class="dark-mode-item navbar-brand-item" src="{{ site.baseurl }}/{{ site.logo }}" alt="logo">
 			</a>
@@ -257,11 +257,8 @@ ga('send', 'pageview');
 				<!-- Nav Main menu END -->
 
 				<!-- Nav Search START -->
-				<div class="nav my-3 my-xl-0 px-4 flex-nowrap align-items-center">
-					<div class="nav-item w-100">
 						{% include search-lunr.html %}
-					</div>
-				</div>
+					
 				<!-- Nav Search END -->
 			</div>
 			<!-- Main navbar END -->
@@ -269,7 +266,7 @@ ga('send', 'pageview');
 			<!-- Profile START -->
 			<div class="dropdown ms-1 ms-lg-0">
 				<a class="avatar avatar-sm p-0" href="#" id="profileDropdown" role="button" data-bs-auto-close="outside" data-bs-display="static" data-bs-toggle="dropdown" aria-expanded="false">
-					<img class="avatar-img rounded-circle" src="assets/images/avatar/01.jpg" alt="avatar">
+					<img class="avatar-img rounded-circle" src="/assets/images/nanda.webp" alt="avatar">
 				</a>
 				<ul class="dropdown-menu dropdown-animation dropdown-menu-end shadow pt-3" aria-labelledby="profileDropdown">
 					<!-- Profile info -->
@@ -277,7 +274,7 @@ ga('send', 'pageview');
 						<div class="d-flex align-items-center">
 							<!-- Avatar -->
 							<div class="avatar me-3">
-								<img class="avatar-img rounded-circle shadow" src="assets/images/avatar/01.jpg" alt="avatar">
+								<img class="avatar-img rounded-circle shadow" src="/assets/images/nanda.webp" alt="avatar">
 							</div>
 							<div>
 								<a class="h6" href="#">Lori Ferguson</a>
