@@ -2,8 +2,9 @@
 layout: post
 title:  "Penginapan di Ujung Gading Pasaman Barat"
 author: nanda
-categories: [tutorial]
-tags: [tutorial]
+categories: [wisata]
+tags: [wisata]
+toc: true
 image: assets/images/pasaman.webp
 description: "ketika saya pertama kali tiba di Ujung Gading, Pasaman Barat, saya langsung terpesona oleh keasrian alam dan keramahan penduduk lokal. Suasana yang tenang dan udara sejuk membuat liburan terasa berbeda, seolah waktu berjalan lebih lambat dan setiap momen bisa dinikmati sepenuhnya"
 ---
