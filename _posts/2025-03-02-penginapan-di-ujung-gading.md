@@ -19,7 +19,7 @@ description: " ketika saya pertama kali tiba di Ujung Gading, Pasaman Barat, say
   <div class="carousel-inner">
     <div class="carousel-item active">
       <a href="#gading-syariah-hotel">
-        <img src="https://via.placeholder.com/800x400?text=Gading+Syariah+Hotel" class="d-block w-100" alt="Gading Syariah Hotel">
+        <img src="/assets/images/teknik.webp" class="d-block w-100" alt="Gading Syariah Hotel">
         <div class="carousel-caption d-none d-md-block">
           <h5>Gading Syariah Hotel</h5>
         </div>
@@ -27,7 +27,7 @@ description: " ketika saya pertama kali tiba di Ujung Gading, Pasaman Barat, say
     </div>
     <div class="carousel-item">
       <a href="#hotel-zartin">
-        <img src="https://via.placeholder.com/800x400?text=Hotel+Zartin" class="d-block w-100" alt="Hotel Zartin">
+        <img src="/assets/images/teknik.webp" class="d-block w-100" alt="Hotel Zartin">
         <div class="carousel-caption d-none d-md-block">
           <h5>Hotel Zartin</h5>
         </div>
@@ -35,7 +35,7 @@ description: " ketika saya pertama kali tiba di Ujung Gading, Pasaman Barat, say
     </div>
     <div class="carousel-item">
       <a href="#hotel-nita-utama">
-        <img src="https://via.placeholder.com/800x400?text=Hotel+Nita+Utama" class="d-block w-100" alt="Hotel Nita Utama">
+        <img src="/assets/images/teknik.webp" class="d-block w-100" alt="Hotel Nita Utama">
         <div class="carousel-caption d-none d-md-block">
           <h5>Hotel Nita Utama</h5>
         </div>
@@ -43,7 +43,7 @@ description: " ketika saya pertama kali tiba di Ujung Gading, Pasaman Barat, say
     </div>
     <div class="carousel-item">
       <a href="#ega-asri-hotel">
-        <img src="https://via.placeholder.com/800x400?text=Ega+Asri+Hotel" class="d-block w-100" alt="Ega Asri Hotel">
+        <img src="/assets/images/teknik.webp" class="d-block w-100" alt="Ega Asri Hotel">
         <div class="carousel-caption d-none d-md-block">
           <h5>Ega Asri Hotel</h5>
         </div>
