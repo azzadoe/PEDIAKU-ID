@@ -5,6 +5,7 @@ author: nanda
 categories: [pendidikan]
 tags: [pendidikan]
 image: assets/images/asuransi.webp
+toc : true
 description: "Apa itu asuransi properti syariah, lalu apa bedanya dengan asuransi konvensional? kelebihannya serta kekurangannya masing-masing"
 ---
 

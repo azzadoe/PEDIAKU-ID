@@ -5,6 +5,7 @@ author: nanda
 categories: [tutorial]
 tags: [tutorial]
 image: assets/images/merawat-drum.webp
+toc : true
 description: "Drum bukan sekadar instrumen musik, tetapi juga investasi berharga bagi para drummer. Merawat drum dengan baik tidak hanya menjaga kualitas suaranya, tetapi juga memperpanjang usia pemakaian. Sayangnya, banyak pemain drum—baik pemula maupun profesional—yang masih abai terhadap perawatan rutin."
 ---
 

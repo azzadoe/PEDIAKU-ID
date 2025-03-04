@@ -5,6 +5,7 @@ author: nanda
 categories: [pendidikan]
 tags: [pendidikan]
 image: assets/images/hukum.webp
+toc : true
 description: "Di era modern ini, banyak pihak mulai mempertanyakan apakah hukum masih berfungsi sebagai instrumen keadilan atau justru telah berubah menjadi alat politik yang bisa dipermainkan. Dalam pembahasan ini, kita akan mengeksplorasi fenomena di mana hukum sebagai alat politik digunakan untuk mencapai agenda tertentu dan bagaimana keadilan yang dijual murah menjadi refleksi dari penyalahgunaan kekuasaan"
 ---
 

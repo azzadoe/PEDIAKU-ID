@@ -5,6 +5,7 @@ author: nanda
 categories: [pendidikan]
 tags: [pendidikan]
 image: assets/images/kardiovaskular.webp
+toc : true
 description: "Bagaimana peran ultrasound dalam deteksi dini penyakit kardiovaskular, dan seberapa efektif?"
 ---
 

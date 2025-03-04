@@ -5,6 +5,7 @@ author: nanda
 categories: [pendidikan, tutorial]
 tags: [camping]
 image: assets/images/camping.webp
+toc : true
 description: "Panduan lengkap dan mendalam tentang cara mengatur rencana camping sempurna untuk liburan akhir pekan, lengkap dengan tips praktis, saran keamanan, dan dukungan penelitian dari para ahli."
 ---
 

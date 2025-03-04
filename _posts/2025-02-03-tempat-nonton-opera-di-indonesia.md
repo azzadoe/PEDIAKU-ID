@@ -6,6 +6,7 @@ categories: [  pendidikan ]
 tags: [opera]
 featured: true
 image: assets/images/kesenianjakarta.webp
+toc : true
 description: "Pengen nonton opera tapi bingung di mana? Yuk liat rekomendasi tempat nonton opera dan pertunjukan di Indonesia yang wajib kamu kunjungi!."
 ---
 

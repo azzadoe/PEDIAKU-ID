@@ -5,6 +5,7 @@ author: nanda
 categories: [blogger, teknologi]
 tags: [blogger]
 image: assets/images/jurnalis.webp
+toc : true
 description: "Panduan lengkap untuk memilih web hosting yang tepat bagi bisnis kecil dan menengah. Pelajari berbagai jenis hosting, faktor yang perlu dipertimbangkan, serta contoh kasus yang relevan"
 ---
 

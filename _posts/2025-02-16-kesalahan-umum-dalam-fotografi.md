@@ -5,6 +5,7 @@ author: nanda
 categories: [tutorial]
 tags: [blogger]
 image: assets/images/fotografi.webp
+toc : true
 description: "Pelajari 10 kesalahan umum dalam fotografi yang harus dihindari untuk menghasilkan foto berkualitas. Dapatkan tips praktis dan saran dari para ahli untuk meningkatkan kemampuan fotografi Anda"
 ---
 

@@ -5,6 +5,7 @@ author: nanda
 categories: [pendidikan]
 tags: [blogger]
 image: assets/images/karies.webp
+toc : true
 description: "Artikel komprehensif mengenai penyebab karies gigi pada anak dan cara mengatasinya dengan tips perawatan gigi anak, pendapat ahli, dan penelitian terkini"
 ---
 

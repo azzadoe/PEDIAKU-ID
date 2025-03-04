@@ -5,6 +5,7 @@ author: nanda
 categories: [teknologi]
 tags: [blogger]
 image: assets/images/daihatsu.webp
+toc : true
 description: "Artikel mendalam mengenai inovasi teknologi Daihatsu untuk menciptakan mobil yang lebih efisien dan ramah lingkungan, dengan ulasan lengkap tentang teknologi hybrid, material ringan, sistem penggerak baru, dan pendapat para ahli otomotif"
 ---
 

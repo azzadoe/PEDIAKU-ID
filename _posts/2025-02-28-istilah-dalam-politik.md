@@ -5,6 +5,7 @@ author: nanda
 categories: [pendidikan]
 tags: [pendidikan]
 image: assets/images/istilah-politik.webp
+toc : true
 description: "Temukan 7 istilah kunci yang wajib dipahami untuk navigasi isu terkini, dilengkapi analisis mendalam dan integrasi kata kunci SEO. Pelajari bagaimana polarisasi politik memengaruhi wacana publik"
 ---
 

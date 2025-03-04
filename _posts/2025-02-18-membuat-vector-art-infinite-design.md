@@ -5,6 +5,7 @@ author: nanda
 categories: [tutorial]
 tags: [desain]
 image: assets/images/vektor.webp
+toc : true
 description: "Pelajari cara membuat brosur yang keren dengan Infinite Design lewat tutorial lengkap ini. Mulai dari persiapan dan pembuatan layout hingga tips detail untuk finishing desain, artikel ini menyajikan panduan praktis dengan bahasa yang santai, seolah kamu sedang ngobrol dengan teman. Dilengkapi dengan langkah-langkah mudah dan saran kreatif"
 ---
 

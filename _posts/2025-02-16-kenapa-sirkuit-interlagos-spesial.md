@@ -5,6 +5,7 @@ author: nanda
 categories: [teknologi]
 tags: [blogger]
 image: assets/images/sirkuit.webp
+toc : true
 description: "Artikel ini mengulas keistimewaan Sirkuit Interlagos dari sejarah dan desainnya yang unik hingga momen-momen dramatis yang selalu membuat Grand Prix Brazil menjadi salah satu balapan F1 terbaik sepanjang masa."
 ---
 

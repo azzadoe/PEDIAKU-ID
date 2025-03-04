@@ -5,6 +5,7 @@ author: nanda
 categories: [teknologi]
 tags: [teknologi]
 image: assets/images/jam-tangan-vintage.webp
+toc : true
 description: "jam tangan bukan hanya sekadar alat penunjuk waktu, melainkan juga merupakan pernyataan gaya yang menggabungkan keindahan desain klasik dengan inovasi modern. Konsep Jam Tangan Vintage Modern telah merevolusi cara kita melihat aksesori ini dengan menyajikan nuansa nostalgia yang dipadukan dengan teknologi dan estetika kontemporer."
 ---
 

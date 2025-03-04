@@ -5,6 +5,7 @@ author: nanda
 categories: [pendidikan, wisata]
 tags: [pendidikan, wisata]
 image: assets/images/negaraberbahaya.webp
+toc : true
 description: "Dalam era globalisasi ini, wisatawan asing semakin tertarik menjelajahi berbagai belahan dunia. Namun, tidak semua destinasi menawarkan pengalaman yang aman"
 ---
 

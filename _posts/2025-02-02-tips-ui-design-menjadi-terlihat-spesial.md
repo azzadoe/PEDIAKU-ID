@@ -5,6 +5,7 @@ author: nanda
 categories: [ tutorial,blogger]
 tags: [design,ui design]
 image: assets/images/ux.webp
+toc : true
 ---
 
 Dalam dunia digital yang kompetitif, desain User Interface (UI) dan User Experience (UX) menjadi faktor utama yang menentukan apakah sebuah aplikasi atau situs web dapat menarik dan mempertahankan pengguna.Menurut [www.xnsolutions.net](https://www.xnsolutions.net) UI yang menarik saja tidak cukup, tetapi harus diimbangi dengan UX yang nyaman dan intuitif. Oleh karena itu, penting untuk memahami prinsip desain UI/UX yang efektif agar dapat menciptakan pengalaman pengguna yang menyenangkan.

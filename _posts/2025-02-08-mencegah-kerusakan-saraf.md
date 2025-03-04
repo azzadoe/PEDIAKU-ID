@@ -5,6 +5,7 @@ author: nanda
 categories: [blogger, pendidikan, ]
 tags: [kerusakan saraf]
 image: assets/images/saraf.webp
+toc : true
 description: "Panduan lengkap bagi orang tua mengenali dan mencegah kerusakan saraf pada anak. Temukan tips pola makan sehat, lingkungan aman, dan pemeriksaan rutin untuk mendukung tumbuh kembang optimal"
 ---
 

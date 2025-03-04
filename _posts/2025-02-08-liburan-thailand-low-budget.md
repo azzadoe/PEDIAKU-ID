@@ -5,6 +5,7 @@ author: nanda
 categories: [ wisata ]
 tags: [wisata thailand, traveling, rekomendasi]
 image: assets/images/thailand.webp
+toc : true
 description: "Pengen liburan ke thailand dengan low budget? berikut tips dan rekomendasi destinasi wisata low budget di thailand"
 ---
 

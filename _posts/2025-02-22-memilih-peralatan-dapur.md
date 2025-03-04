@@ -5,6 +5,7 @@ author: nanda
 categories: [pendidikan]
 tags: [pendidikan]
 image: assets/images/dapur.webp
+toc : true
 description: "Memiliki peralatan dapur yang tepat dapat mempermudah proses memasak, lalu bagaimana tips memilih peralatan dapur bagi pemula. berikut ulasan lengkapnya"
 ---
 

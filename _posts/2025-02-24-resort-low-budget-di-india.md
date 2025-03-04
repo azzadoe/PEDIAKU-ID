@@ -5,6 +5,7 @@ author: nanda
 categories: [wisata]
 tags: [wisata]
 image: assets/images/resort.webp
+toc : true
 description: "Berlibur romantis di India tak harus menguras kantong. Negara yang kaya akan keanekaragaman budaya, alam memesona, dan arsitektur megah ini menawarkan berbagai pilihan resort low budget yang tidak hanya ramah di dompet, tetapi juga menghadirkan nuansa keintiman dan kehangatan bagi pasangan"
 ---
 

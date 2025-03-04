@@ -5,6 +5,7 @@ author: nanda
 categories: [tutorial]
 tags: [tutorial]
 image: assets/images/teknik.webp
+toc : true
 description: " Dalam artikel ini, kita akan membahas 5 Teknik Memukul Bola Golf Berdasarkan Situasi yang terbukti efektif untuk meningkatkan permainan. Setiap teknik dijelaskan secara mendalam dengan contoh nyata, sehingga Anda dapat memahami kapan dan bagaimana menerapkannya di lapangan"
 ---
 

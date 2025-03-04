@@ -5,6 +5,7 @@ author: nanda
 categories: [pendidikan]
 tags: [pendidikan]
 image: assets/images/kaburajadulu.webp
+toc : true
 description: "Memang banyak banget kejadian-kejadia  gokilyang terjadi di negara ter-CINTA ini. Baru beberapa bulan lalu media sosial indonesia digempar dengan tagar #PeringatanDarurat #indonesiagelap yang saking hebohnya sampai diliput loh oleh media luar! Gak puas dengan itu, sekarang lagi heboh-heboh nya soal tagar #KaburAja dulu"
 ---
 
