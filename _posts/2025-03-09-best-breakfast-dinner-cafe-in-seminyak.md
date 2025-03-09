@@ -23,7 +23,7 @@ For those planning [private events in Seminyak](https://cafebaliseminyak.com/), 
 
 ## Conclusion
 
-Nikmati pengalaman bersantap terbaik di **[Cafe Bali Seminyak]**(https://cafebaliseminyak.com/), tempat di mana suasana romantis, hidangan lezat, dan layanan istimewa berpadu sempurna. Jadikan setiap momen spesial Anda lebih berkesan dengan makan malam romantis atau acara pribadi yang tak terlupakan di Seminyak.
+Nikmati pengalaman bersantap terbaik di [**Cafe Bali Seminyak**](https://cafebaliseminyak.com/), tempat di mana suasana romantis, hidangan lezat, dan layanan istimewa berpadu sempurna. Jadikan setiap momen spesial Anda lebih berkesan dengan makan malam romantis atau acara pribadi yang tak terlupakan di Seminyak.
 
 Enjoy the [best dining experience](https://foodparadise.network/seminyak-best-restaurants-cafes/) at **Cafe Bali Seminyak**, where romantic vibes, delicious cuisine, and attentive service come together seamlessly. Make your special moments even more memorable with a romantic dinner, breakfast, brunch, or private event in Seminyak.
 
