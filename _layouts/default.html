@@ -5,8 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
+<!-- Robots Meta Tag untuk SEO -->
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 
+<meta name="keywords" content="{% if page.keywords %}{{ page.keywords | join: ', ' }}{% elsif page.tags %}{{ page.tags | join: ', ' }}{% else %}pediaku id, pediaku ppt, tempat belajar blogger dan seo{% endif %}">
+<!-- Keyword Meta Tag -->
 <title>{{ page.title }} | {{site.name}}</title>
+<meta name="publisher" content="{{ site.publisher | default: 'Pediaku ID' }}">
 
 {% seo %}
 

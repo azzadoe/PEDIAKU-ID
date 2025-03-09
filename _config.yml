@@ -1,6 +1,7 @@
 # Site
 name: "Pediaku ID"
 title: "Pediaku ID"
+publisher: "Pediaku ID"
 description: "Blog kekinian informasi terkini dan tempatnya belajar blogging terlengkap untuk pemula."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
