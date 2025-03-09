@@ -11,10 +11,10 @@ description: "Tistory adalah situs blog publishing service populer asal Korea Se
 ---
 
 
-[Pediaku ID](https://pediaku.id/ "cara membuat blog") - Selain di blogger, dan wordpress kita juga bisa membuat situs blog sendiri dengan menggunakan platform titory. Selain itu blog yang Anda buat akan langsung memiliki nilai DA dan PA yang tinggi. Penasaran dengan [cara membuat blog di tistory?](https://www.pediaku.id/), pediaku id sudah merangkum panduan dan melakukan [cek sumber](https://www.biffadigital.org) nya langsung!
+Pediaku ID - Selain di blogger, dan wordpress kita juga bisa membuat situs blog sendiri dengan menggunakan platform titory. Selain itu blog yang Anda buat akan langsung memiliki nilai DA dan PA yang tinggi. Penasaran dengan [cara membuat blog di tistory?](https://pediaku.id/membuat-blog-di-tistory/), pediaku id sudah merangkum panduan dan melakukan **[cek sumber](https://www.biffadigital.org)** nya langsung!
 
 
-Membuat blog di platform lain dapat menambah pengalaman baru buat kamu, blog yang SEO bukan hanya sekedar menulis konten atau membandingkan [SEO vs Konten Berkualitas](https://www.biffadigital.org/seo-vs-konten-berkualitas-mana-yang-lebih-penting-untuk-blog/), tapi juga dipengaruhi oleh platform blog itu sendiri. Banyak sekali platform dan CMS yang bisa kita gunakan untuk membuat blog, salah satunya Yaitu Tistory.
+Membuat blog di platform lain dapat menambah pengalaman baru buat kamu, blog yang SEO bukan hanya sekedar menulis konten atau membandingkan **[SEO vs Konten Berkualitas](https://www.biffadigital.org/seo-vs-konten-berkualitas-mana-yang-lebih-penting-untuk-blog/)**, tapi juga dipengaruhi oleh platform blog itu sendiri. Banyak sekali platform dan CMS yang bisa kita gunakan untuk membuat blog, salah satunya Yaitu Tistory.
 
 <p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Uu8IBclUXOw?si=9K72o62ZS5DGhn78" frameborder="0" allowfullscreen></iframe></p>
 
