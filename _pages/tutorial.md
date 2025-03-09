@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Blogger
-permalink: /blogger/
+title: tutorial
+permalink: /tutorial/
 ---
 <!-- Sertakan Bootstrap CSS (pastikan tidak duplikat jika sudah ada di layout utama) -->
 
@@ -44,9 +44,9 @@ permalink: /blogger/
 <div class="container my-5">
   <div class="row">
     {% assign colors = "#FDEBD0,#D6EAF8,#E8DAEF,#D5F5E3,#FCF3CF" | split: "," %}
-    {% assign blogger_posts = site.posts | where_exp:"post", "post.categories contains 'blogger'" %}
-    {% if blogger_posts.size > 0 %}
-      {% for post in blogger_posts %}
+    {% assign tutorial_posts = site.posts | where_exp:"post", "post.categories contains 'tutorial'" %}
+    {% if tutorial_posts.size > 0 %}
+      {% for post in tutorial_posts %}
         {% assign bg_color = colors[forloop.index0 | modulo: colors.size] %}
         <div class="col-md-4 mb-4">
           <div class="card card-modern h-100 shadow">
