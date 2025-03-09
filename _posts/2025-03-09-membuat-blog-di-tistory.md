@@ -16,7 +16,7 @@ description: "Tistory adalah situs blog publishing service populer asal Korea Se
 
 Membuat blog di platform lain dapat menambah pengalaman baru buat kamu, blog yang SEO bukan hanya sekedar menulis konten atau membandingkan [SEO vs Konten Berkualitas](https://www.biffadigital.org/seo-vs-konten-berkualitas-mana-yang-lebih-penting-untuk-blog/), tapi juga dipengaruhi oleh platform blog itu sendiri. Banyak sekali platform dan CMS yang bisa kita gunakan untuk membuat blog, salah satunya Yaitu Tistory.
 
-<iframe src="https://www.youtube.com/embed/Uu8IBclUXOw?si=9K72o62ZS5DGhn78" allowfullscreen></iframe>
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Uu8IBclUXOw?si=9K72o62ZS5DGhn78" frameborder="0" allowfullscreen></iframe></p>
 
 ## Apa Itu Tistory?
 
