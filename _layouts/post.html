@@ -84,26 +84,7 @@ post_class: post-template
                 {{content}}
             </div>
 
-            <div class="related-posts container my-4">
-                <h3 class="mb-3">Posting Terkait</h3>
-                <div class="row">
-                  {% assign related_posts = site.posts | where_exp:"post", "post.tags | intersect: page.tags | size > 0" | where:"url", "!=" , page.url | limit:3 %}
-                  {% for post in related_posts %}
-                    <div class="col-md-4 mb-3">
-                      <div class="card h-100">
-                        <div class="card-body">
-                          <h5 class="card-title">{{ post.title }}</h5>
-                          <p class="card-text">{{ post.excerpt | strip_html | truncate: 100 }}</p>
-                        </div>
-                        <div class="card-footer">
-                          <a href="{{ post.url | relative_url }}" class="btn btn-primary btn-sm">Baca Selengkapnya</a>
-                        </div>
-                      </div>
-                    </div>
-                  {% endfor %}
-                </div>
-              </div>
-              
+            
             <!-- Rating -->
             {% if page.rating %}
             <div class="rating mb-4 d-flex align-items-center">
