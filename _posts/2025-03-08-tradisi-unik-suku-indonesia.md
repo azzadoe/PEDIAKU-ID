@@ -5,8 +5,9 @@ author: nanda
 categories: [wisata]
 tags: [wisata]
 toc: true
+keywords: wisata unik, tradisi unik suku indonesia, budaya unik suku indonesia, tradisi makan besar, apa saja tradisi unik di indonesia
 image: assets/images/tradisi.webp
-description: "ndonesia memang terkenal dengan kekayaan budaya Indonesia yang luar biasa. Di setiap pelosok negeri, ada tradisi yang unik dan penuh makna. Misalnya, momen kebersamaan saat perayaan **makanbesar, yang mengajak kita untuk menikmati hidangan lezat sambil merayakan ikatan antarwarga."
+description: "Indonesia memang terkenal dengan kekayaan budaya Indonesia yang luar biasa. Di setiap pelosok negeri, ada tradisi yang unik dan penuh makna. Misalnya, momen kebersamaan saat perayaan **makanbesar, yang mengajak kita untuk menikmati hidangan lezat sambil merayakan ikatan antarwarga."
 ---
 
 Indonesia memang terkenal dengan kekayaan **budaya Indonesia** yang luar biasa. Di setiap pelosok negeri, ada tradisi yang unik dan penuh makna. Misalnya, momen kebersamaan saat perayaan **[makanbesar](https://makanbesar.id)**, yang mengajak kita untuk menikmati hidangan lezat sambil merayakan ikatan antarwarga. Tradisi ini adalah salah satu contoh kearifan lokal yang memperkuat tali persaudaraan di tengah masyarakat.
