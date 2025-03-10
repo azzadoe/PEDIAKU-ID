@@ -77,25 +77,10 @@ Banyak *contoh desain gedung tk minimalis untuk sekolah* yang dapat dijadikan in
 ## Contoh Ide Desain Gedung TK Minimalis
 Berikut beberapa ide contoh desain gedung tk minimalis yang terlihat futuristik dan multifungsi, Anda bisa mengembangkan ide ini untuk menerapkannya.
 
-  <div class="gallery ">
-  <!-- gallery-item -->
-   <figure class="gallery__item gallery__item--1 mb-0">
-     <img src="/assets/images/desain1.webp" alt="Gallery image 1" class="gallery__img rounded-3">
-   </figure>
-    <!-- gallery-item -->
-   <figure class="gallery__item gallery__item--2 mb-0">
-     <img src="/assets/images/desain2.webp" alt="Gallery image 2" class="gallery__img rounded-3">
-   </figure>
-    <!-- gallery-item -->
-   <figure class="gallery__item gallery__item--3 mb-0">
-     <img src="/assets/images/desain3.webp" alt="Gallery image 3" class="gallery__img rounded-3">
-   </figure>
-    <!-- gallery-item -->
-   <figure class="gallery__item gallery__item--4 mb-0">
-     <img src="/assets/images/desain4.webp" alt="Gallery image 4" class="gallery__img rounded-3">
-   </figure>
-  
- </div>
+![desain tk minimalis](/assets/images/desain1.webp)
+![desain paud minimalis](/assets/images/desain2.webp)
+![desian tk modern](/assets/images/desain3.webp)
+![desain tk unik](/assets/images/desain4.webp)
 
 ## Kesimpulan
 
