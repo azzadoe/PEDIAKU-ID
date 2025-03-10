@@ -1,11 +1,13 @@
 ---
-title: "7 Kesalahan Font Yang Sering Terjadi Di PowerPoint"
-date: "2025-04-05"
-categories: 
-  - "power-point"
-tags: 
-  - "powerpoint"
-coverImage: "power-point-1.webp"
+
+layout: post
+title:  "7 Kesalahan Font Yang Sering Terjadi Di PowerPoint"
+author: nanda
+categories: [ blogger ]
+tags: []
+image: assets/images/11.jpg
+description: "Suka nulis dan pengen tulisanmu terbit di Internet? Yuk, kamu bisa terbitkan artikel di Pediaku ID gratis!."
+
 ---
 
 Pernah gak sih, presentasi PowerPoint kamu terasa kurang nendang, padahal isinya udah keren banget? Mungkin masalahnya bukan di konten, tapi di font! Percaya deh, pemilihan font yang salah bisa bikin audiens jadi malas merhatiin. Nah, di artikel ini, kita bakal kupas tuntas **7 Kesalahan Font yang Sering Terjadi di PowerPoint** dan cara menghindarinya. Siap bikin presentasi kamu jadi lebih memukau? Yuk, simak!
