@@ -8,7 +8,6 @@ tags:
   - teknologi
 toc: true
 image: teknologi-2.webp
-date: '2025-03-13'
 ---
 
 
