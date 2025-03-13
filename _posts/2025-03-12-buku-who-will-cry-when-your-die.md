@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review Buku Who Will Cry When You Die? Pengalaman dalam Buku"
+title:  "Review Buku Who Will Cry When You Die?"
 author: nanda
 categories: [pendidikan]
 tags: [pendidikan]
