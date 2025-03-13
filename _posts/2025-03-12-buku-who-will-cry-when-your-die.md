@@ -4,7 +4,7 @@ title:  "Review Buku Who Will Cry When You Die?"
 author: nanda
 categories: [pendidikan]
 tags: [pendidikan]
-keywords: review buku, Who Will Cry When You Die, pengalaman dalam sebuah buku, buku untuk memulai bisnis, Robin Sharma, self-help, pengembangan diri, buku inspiratif"
+keywords: review buku, Who Will Cry When You Die, pengalaman dalam sebuah buku, buku untuk memulai bisnis, Robin Sharma, self-help, pengembangan diri, buku inspiratif
 description: "Artikel mendalam yang mengulas buku 'Who Will Cry When You Die?' karya Robin Sharma, menyajikan sinopsis, analisis, dan pengalaman inspiratif yang dapat dijadikan referensi untuk pengembangan diri serta strategi bisnis"
 toc: true
 image: assets/images/robin-sharma.webp
