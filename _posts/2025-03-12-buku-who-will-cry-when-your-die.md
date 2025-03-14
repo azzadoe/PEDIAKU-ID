@@ -5,14 +5,14 @@ author: nanda
 categories: [pendidikan]
 tags: [pendidikan]
 keywords: review buku, Who Will Cry When You Die, pengalaman dalam sebuah buku, buku untuk memulai bisnis, Robin Sharma, self-help, pengembangan diri, buku inspiratif
-description: "Artikel mendalam yang mengulas buku 'Who Will Cry When You Die?' karya Robin Sharma, menyajikan sinopsis, analisis, dan pengalaman inspiratif yang dapat dijadikan referensi untuk pengembangan diri serta strategi bisnis"
-toc: true
+description: "Artikel mendalam yang mengulas buku 'Who Will Cry When You Die?' karya Robin Sharma, menyajikan sinopsis, analisis, dan pengalaman inspiratif yang dapat dijadikan referensi untuk pengembangan diri"
+toc: false
 image: assets/images/robin-sharma.webp
 ---
 
-Buku *Who Will Cry When You Die?* karya Robin Sharma merupakan salah satu karya self-help yang telah menginspirasi jutaan pembaca di seluruh dunia. Di dalam buku ini, pembaca diajak untuk merenungi makna hidup, mengasah kebijaksanaan, dan menemukan cara untuk menjalani kehidupan dengan penuh integritas serta tujuan. Penasaran, ***[lihat selengkapnya](https://www.20thcenturydirect.com/)*** ulasan dari pediaku 
+Buku *Who Will Cry When You Die?* karya Robin Sharma merupakan salah satu karya self-help yang telah menginspirasi jutaan pembaca di seluruh dunia. Di dalam buku ini, pembaca diajak untuk merenungi makna hidup, mengasah kebijaksanaan, dan menemukan cara untuk menjalani kehidupan dengan penuh integritas serta tujuan. Penasaran, <i><a href="https://www.20thcenturydirect.com/" style="color: red" >lihat selengkapnya</a></i> ulasan dari pediaku 
 
->Pada paragraf kedua, penting untuk menyadari bahwa buku semacam ini juga dapat berperan sebagai [Buku untuk Memulai Bisnis](https://www.20thcenturydirect.com/2025/02/02/5-buku-yang-harus-dibaca-sebelum-memulai-bisnis-sendiri/) karena prinsip-prinsip kepemimpinan, pengembangan diri, dan pengambilan keputusan yang diterapkan dalam dunia bisnis. Pengalaman membaca buku ini tidak hanya memberikan wawasan baru tentang cara menghadapi tantangan hidup, tetapi juga menginspirasi para pengusaha untuk merancang strategi bisnis dengan lebih humanis dan visioner.
+>Pada paragraf kedua, penting untuk menyadari bahwa buku semacam ini juga dapat berperan sebagai <i><a href="https://www.20thcenturydirect.com/2025/02/02/5-buku-yang-harus-dibaca-sebelum-memulai-bisnis-sendiri/" style="color: red">Buku untuk Memulai Bisnis</a></i> karena prinsip-prinsip kepemimpinan, pengembangan diri, dan pengambilan keputusan yang diterapkan dalam dunia bisnis. Pengalaman membaca buku ini tidak hanya memberikan wawasan baru tentang cara menghadapi tantangan hidup, tetapi juga menginspirasi para pengusaha untuk merancang strategi bisnis dengan lebih humanis dan visioner.
 
 ## Sinopsis Buku
 
