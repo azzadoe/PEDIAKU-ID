@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "10 Adegan Film Paling Revolusioner dan Tak Lekang oleh Waktu"
+title:  "10 Adegan Film Paling Revolusioner Tak Lekang oleh Waktu"
 author: nanda
 categories: [teknologi]
 tags: [teknologi]
