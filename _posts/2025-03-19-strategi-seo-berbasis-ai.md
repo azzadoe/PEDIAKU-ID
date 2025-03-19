@@ -2,7 +2,7 @@
 layout: post
 title:  "Strategi SEO Berbasis AI: Rahasia Mengalahkan Algoritma Pencarian"
 author: nanda
-categories: [tutorial]
+categories: [tutorial, blogger]
 tags: [tutorial]
 keywords: ["strategi SEO berbasis AI", "algoritma pencarian", "AI dalam SEO", "optimasi SEO", "teknologi AI", "konten SEO", "NLP dalam SEO", "analisis data SEO"]
 description: "Temukan bagaimana teknologi AI mengoptimalkan SEO dengan teknik canggih untuk mengalahkan algoritma pencarian melalui analisis mendalam dan studi kasus terkini."
