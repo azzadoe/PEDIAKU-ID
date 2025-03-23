@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "5 Kue Khas Padang Serta Resep Membuatnya"
+title:  "4 Kue Khas Padang Serta Resep Membuatnya"
 author: nanda
 categories: [wisata]
 tags: [wisata]
 keywords: kue khas Padang, resep kue tradisional, kuliner Minangkabau, rempah dalam kuliner
-description: "Pelajari cara membuat 5 kue khas Padang dengan resep lengkap dan pembahasan mendalam, serta eksplorasi peran rempah dalam kuliner Nusantara"
+description: "Pelajari cara membuat 4 kue khas Padang dengan resep lengkap dan pembahasan mendalam, serta eksplorasi peran rempah dalam kuliner Nusantara"
 toc: true
 image: assets/images/kue-padang.webp
 ---
