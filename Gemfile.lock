@@ -87,6 +87,7 @@ DEPENDENCIES
   jekyll-archives
   jekyll-feed
   jekyll-paginate
+  jekyll-sass-converter
   jekyll-seo-tag
   jekyll-sitemap
   kramdown
