@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cara Jago Main Cecilion Mage"
+title:  "Cara Jago Bermain Hero Cecilion Mage dan Build Terkuat"
 author: nanda
 categories: [tutorial]
 tags: [tutorial]
