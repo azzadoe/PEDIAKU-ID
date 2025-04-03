@@ -9,7 +9,7 @@ description: "Panduan lengkap jago bermain mai shiranui, belajar combo yang kuat
 toc: true
 image: assets/images/mai-shiranui.webp
 ---
-Mai shiranui salah satu hero yang sering saya pick saat bermain di mid lane. Hero Honor of Kings Mai Shiranui ini memang menjadi langganan pick, dengan role Mage/Assasin yang memiliki kemampuan menyerang dengan damage yang mematikan, serta dipadukan dengan *crowd control* dalam setiap skillnya
+[Mai shiranui](https://pediaku.id/combo-cara-bermain-mai-shiranui/) salah satu hero yang sering saya pick saat bermain di mid lane. Hero Honor of Kings Mai Shiranui ini memang menjadi langganan pick, dengan role Mage/Assasin yang memiliki kemampuan menyerang dengan damage yang mematikan, serta dipadukan dengan *crowd control* dalam setiap skillnya. 
 
 Menggunakan Mai Shiranui menjadi salah satu ***[Strategi Jitu Menang Game MOBA](https://gamerakyat.id/tips/strategi-jitu-menang-game-moba-panduan-untuk-pemain-pemula-dan-menengah/)*** Honor of Kings ini. Nah, untuk memaksimalkan potensinya saat bermain, Pediaku id belajar dari sepuh gamenya langsung nih, yaitu ***[https://gamerakyat.id/](https://gamerakyat.id/)*** yang bakal ngasih kita tutorial dan panduan lengkap bagaimana cara menggunakan hero Mai shiranui dan combo-combo yang bisa instan kill musuh yang bisa kamu coba.
 
@@ -32,7 +32,7 @@ Untuk skill 2 nya, Mai akan melemparkan kipas ke musuh yang memberikan Magic dam
 Ultimate nya sendiri, Mai akan melesat maju ke depan dan memberikan magic damage, menjatuhkan musuh dan mengurangi phisical damage yang masuk ke Mai sebesar 20% selama 2,5 detik.
 
 ### Gunakan Build yang Tepat
-Karena Mai bergantung pada penggunaan skill-skillnya, iya sangat membutuhkan item dengan magic damage tinggi yang dapat langsung mengeliminasi mush. Untuk buildnya kamu bisa meniru yang di bawah
+Karena Mai bergantung pada penggunaan skill-skillnya, iya sangat membutuhkan item dengan magic damage tinggi yang dapat langsung mengeliminasi mush. Sama seperti game-game lainnya baik itu **[cara bermain cecilion](https://pediaku.id/menggunakan-cecilion-mage/)** di ml yang juga butuh build yang tepat. Untuk buildnya kamu bisa meniru yang di bawah.
 
 ![item mai](/assets/images/item-mai.png)
 
@@ -55,4 +55,4 @@ Sedangkan beberapa tipe hero yang bisa nge-counter Mai adalah hero dengan CC yan
 Mudah kok ngecounter Mai, asal kamu paham skill nya dan bisa jaga posisi, dan ingat berhati-hati dengan semak-semak.
 
 ## Kesimpulan
-Nah, itu dia beberapa tips bermain mai shiranui biar jago dan jadi preman midlane yang ditakuti oleh musuh. ingat untuk selalu menjaga posisi dan memperhatikan Map kamu
+Nah, itu dia beberapa tips bermain mai shiranui biar jago dan jadi preman midlane yang ditakuti oleh musuh. ingat untuk selalu menjaga posisi dan memperhatikan Map kamu. Baca juga rekomendasi *[game offline grafik hd](https://pediaku.id/game-ultra-realistis-offline/)*
